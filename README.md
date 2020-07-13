@@ -2,7 +2,7 @@
 
 ## NEW PROJECT: BikemappingZRH
 ![Bikemap Paris](https://raw.githubusercontent.com/posmocoop/spatial_future/master/paris.jpeg)
-Vorbild: Bikemap Paris
+    
 
 The idea is to map the time you need between important locations in Zurich when on a bike.     
 Thomas Hug has created a map of important locations and started measuring the duration between them. Roger Fischer has equally started to measure others and proposes a [simple csv structure](https://github.com/posmocoop/spatial_future/blob/master/bikemappingzrh.csv) to capture the times (and maybe even the distances).   
