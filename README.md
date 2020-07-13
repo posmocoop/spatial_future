@@ -7,6 +7,9 @@
 The idea is to map the time you need between important locations in Zurich when on a bike.     
 Thomas Hug has created a map of important locations and started measuring the duration between them. Roger Fischer has equally started to measure others and proposes a [simple csv structure](https://github.com/posmocoop/spatial_future/blob/master/bikemappingzrh.csv) to capture the times (and maybe even the distances).   
 
+![Bikemap ZRH](https://raw.githubusercontent.com/posmocoop/spatial_future/master/zurich_miromap.png)
+
+
 To be very precise, we use Posmo Segments available in the [App Store](https://apps.apple.com/us/app/posmo-segments/id1450602777) and [Google Play Store](https://play.google.com/store/apps/details?id=io.datamap.posmo_segments). As more people add their times, the distribution will become richer. And the better we can calculate a median duration value.             
 
 ### CSV
