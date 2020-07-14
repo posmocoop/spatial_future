@@ -38,5 +38,6 @@ See Slack
 
 
 ## Interesting Links:
+- [A/B Street is a game exploring how small changes to a city affect the movement of drivers, cyclists, transit users, and pedestrians](https://github.com/dabreegster/abstreet)
 - [Nationales Personenverkehrsmodell](https://www.are.admin.ch/are/de/home/verkehr-und-infrastruktur/grundlagen-und-daten/verkehrsmodellierung/npvm.html)
 - [Extracting Patterns from Large Movement Datasets](https://austriaca.at/?arp=0x003b9d88)
