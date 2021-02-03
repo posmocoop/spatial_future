@@ -29,6 +29,15 @@ Wähle die wichtigsten 5 Forderungen aus und ordne sie nach Priorität
 - Flächen für den Fussverkehr sollen aufgewertet (verbreitert, attraktiver) werden: Ja / Nein 
 - Velovorzugsrouten sind klar erkennbar, weil sie rot od. blau asphaltiert sind (analog Holland): Ja/Nein 
 - Die Förderung der sanften Mobilität erfolgt auf Kosten des MIV: Ja/Nein
+- Während den Stosszeiten werden gewisse Strassen ganz autofrei
+- Klarer, öffentlicher Zeitplan (Einsprachen sind miteingerechnet bzw. ausgewiesen)
+- Städtisches Verkehrsbudget wird öffentlich und orientiert sich an der Mobilitätspyramide: Fussgänger, Velo, ÖV, Auto (%)
+- Finanzielle Unterstützung für Cargo-Bikes
+- Aufbau einer Logistik mit Cargo-Bikes
+- Parkplätze: Gesetzesänderung, neu gilt ein Maximum und kein Minimum für Autos, neu: Velo- und Cargo-Bike Parkplätze
+- Ein Teil der Innenstadt wird autofrei
+- Vision 2025, 2030, 2040, 2050
+
 
  
 
