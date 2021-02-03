@@ -2,16 +2,33 @@
 
 Wähle die wichtigsten 5 Forderungen aus und ordne sie nach Priorität
 
-- Bicycle Mayor*
+- Plan Hauptaxen: Es braucht zwei durchgehende Velobahnen, V2 von Schlieren nach Küsnacht, V? vom Triemli bis Opfikon
+- 50 km bis 2025 (Beschleunigung), geplant wird alles bis max. 2022
+- 100 km bis 2030
+- Sichere Velorouten werden definiert, A+,B,C werden neu klassiert,            
+  Neues A+ (Ideal): 2.50m eine Richtung, 4m zwei Richtungen                
+  Neues A (Standard): > 2.20m eine Richtung, > 3.50 zwei Richtungen           
+  Neues B (Minimal): 2m eine Richtung, 3m 2 Richtungen              
+  Neues C: früheres A+            
+  Neues D: früheres A             
+  Neues E: früheres B                 
+  Neues F: früheres C                    
+- Bicycle Mayor*       
+- Zürich Atmet. 1 Tag pro Monat ist ganz autofrei. Siehe "Paris Respire": https://en.wikipedia.org/wiki/Paris_Breathes                
 - Wir machen eine Website und zeigen der Bevölkerung auf, was aktuell tatsächlich schief läuft – d.h. wir «bewerten» die Lösungen, die öffentlich aufliegen, und zeigen auf, ob es eine Verbesserung gibt oder nicht – wichtig, dass diese für die breite Gesellschaft lesbar/verständlich ist (im Gegensatz zur öffentlichen Auflage). So schaffen wir eine Art «Projekt-Pranger» für die vielen schlechten Veloprojekte, die immer noch ausgearbeitet werden. Das gäbe wohl auch schneller Resultate wie die Messung der Umsetzung der Velorouten.
-- Als sichere Veloroute gilt nur entweder eine ganze Strasse ohne Zutritt für den Autoverkehr oder eine abgetrennte mind. 2m breite Velostrasse. Ja / Nein
-  Paris en Selle, S. 64:        
+- Als sichere Veloroute gilt nur entweder eine ganze Strasse ohne Zutritt für den Autoverkehr oder eine abgetrennte mind. 2m breite Velostrasse. Ja / Nein      
+  Paris en Selle, S. 64:          
   Minimum: Eine Richtung: 2m, 2 Richtungen: 3m; Standard: Eine Richtung > 2.20m, 2 Richtungen: > 3.50m, Ideal: Eine Richtung > 2.50m, 2 Richtungen > 4m.   
 - Erschliessungsstrassen sind vom Durchgangsverkehr Befreit: Ja / Nein 
 - In der Stadt soll generell und flächendeckend Tempo 30 gelten: Ja / Nein 
 - Kein Mischverkehr; Fuss- und Velowege sollen getrennt voneinander sein: Ja / Nein
 - Fahrverbote für Motorfahrzeuge sind Begegnungszonen vorzuziehen: Ja / Nein
 - Ein Radstreifen von 1.25m Breite ist eine genügende Veloinfrastruktur: Ja / Nein 
+- Auf offiziellen Velorouten gibt es keine öffentlichen Parkplätze: Ja / Nein 
+- Auf offiziellen Velorouten gibt es Parkplätze nur zur Autostrasse hin: Ja / Nein 
+- Flächen für den Fussverkehr sollen aufgewertet (verbreitert, attraktiver) werden: Ja / Nein 
+- Velovorzugsrouten sind klar erkennbar, weil sie rot od. blau asphaltiert sind (analog Holland): Ja/Nein 
+- Die Förderung der sanften Mobilität erfolgt auf Kosten des MIV: Ja/Nein
 
  
 
