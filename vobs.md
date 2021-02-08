@@ -1,6 +1,14 @@
 # VOBS - Velo Observatorium
 
 
+## posmo.coop/vobs
+
+Vorbild:    
+https://planvelo.paris
+
+Mit Neuklassifizierung der Wege und Knoten (siehe unten)
+
+
 ## Finanzierung Version 1:
 - Startbudget: CHF 2000.- 
 - Arbeit von Genossenschafter\*innen, bezahlt via Ostrom, unsere Genossenschaftswährung
@@ -26,11 +34,6 @@ Am Wasser 59
 8049 Zürich       
 ```
 
-
-## posmo.coop/vobs
-
-Vorbild:    
-https://planvelo.paris
 
 ## Neuklassifizierung Velobahnen
 
