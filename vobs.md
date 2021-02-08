@@ -7,7 +7,7 @@ https://planvelo.paris
 
 ### Wege
 
-[Neuklassifizierung Velowege](https://github.com/posmocoop/spatial_future/blob/master/neuklassifizierung_velo_wege.png?raw=true)
+![Neuklassifizierung Velowege](https://github.com/posmocoop/spatial_future/blob/master/neuklassifizierung_velo_wege.png?raw=true)
 
 
 ### Knoten
