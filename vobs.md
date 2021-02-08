@@ -13,7 +13,7 @@ https://planvelo.paris
 
 
 ### Knoten - Nodes
-Gemäss Dave Durner passieren die Unfälle vor allem an den Knoten. Wir müssen also Knoten genauso klassifizieren wie Wege.
+Gemäss gut informierten Quellen passieren die Unfälle vor allem an den Knoten. Wir müssen also Knoten genauso klassifizieren wie Wege.
 
 
 
