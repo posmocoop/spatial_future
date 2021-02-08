@@ -13,7 +13,7 @@ https://planvelo.paris
 
 
 ### Knoten - Nodes
-Gemäss gut informierten Quellen passieren die Unfälle vor allem an den Knoten. Wir müssen also Knoten genauso klassifizieren wie Wege.
+Unfälle passieren vor allem an den Knoten. Wir müssen also Knoten genauso klassifizieren wie Wege.
 
 
 
@@ -23,4 +23,4 @@ https://data.stadt-zuerich.ch/dataset/ktzh_veloinfrastruktur_radwege_und_radstre
 
 ## Finanzierung Version 1:
 - Budget: CHF 2000.- 
-- Volontärarbeit bei Genossenschafter\*innen via Ostrom
+- Arbeit bei Genossenschafter\*innen, bezahlt via Ostrom
