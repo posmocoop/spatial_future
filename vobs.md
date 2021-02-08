@@ -6,7 +6,7 @@
 Vorbild:    
 https://planvelo.paris
 
-Mit Neuklassifizierung der Wege und Knoten (siehe unten)
+Mit [Neuklassifizierung der Wege und Knoten (siehe unten)](https://github.com/posmocoop/spatial_future/blob/master/vobs.md#neuklassifizierung-velobahnen)
 
 
 ## Finanzierung Version 1:
