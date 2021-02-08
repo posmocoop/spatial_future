@@ -14,9 +14,10 @@ Mit Neuklassifizierung der Wege und Knoten (siehe unten)
 - Arbeit von Genossenschafter\*innen, bezahlt via Ostrom, unsere Genossenschaftswährung
 
 ### Möglichkeiten, das Projekt zu finanzieren
-- [Werde Genossenschafter\*in, Vermerk: "GVOBS"](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md).
+- [Werde Genossenschafter\*in mit dem Vermerk: **GVOBS** - CHF 100 bis max. CHF 250](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md).
   Als Genossenschafter\*in kannst Du Dich aktiv ins Projekt einbringen. 
-- Spende einen Beitrag mit Vermerk "VOBS SPENDE". Als Spender\*in wirst Du namentlich auf der Seite aufgeführt. Ab CHF 500.- auch mit Logo, sonst namentlich.
+- Spende einen Beitrag mit Vermerk **VOBS SPENDE**. Als Spender\*in wirst Du namentlich auf der Seite aufgeführt.            
+  Ab CHF 500.- auch mit Logo.             
 
 Einzahlung auf:
 ```
