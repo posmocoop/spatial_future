@@ -49,6 +49,13 @@ Unfälle passieren vor allem an den Knoten. Wir müssen also Knoten genauso klas
 
 
 ## Quellen
+
+### Velostandards
+https://www.bern.ch/velohauptstadt/infrastruktur/masterplan-veloinfrastruktur
+https://www.bern.ch/velohauptstadt/infrastruktur/masterplan-veloinfrastruktur/ftw-simplelayout-filelistingblock/Masterplan_Veloinfrastruktur_Standards
+
+
+### Daten
 https://data.stadt-zuerich.ch/dataset/ktzh_veloinfrastruktur_radwege_und_radstreifen
 
 
