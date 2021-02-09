@@ -54,7 +54,8 @@ Unfälle passieren vor allem an den Knoten. Wir müssen also Knoten genauso klas
 
 ### Velostandards
 https://www.bern.ch/velohauptstadt/infrastruktur/masterplan-veloinfrastruktur    
-https://www.bern.ch/velohauptstadt/infrastruktur/masterplan-veloinfrastruktur/ftw-simplelayout-filelistingblock/Masterplan_Veloinfrastruktur_Standards     
+https://www.bern.ch/velohauptstadt/infrastruktur/masterplan-veloinfrastruktur/ftw-simplelayout-filelistingblock/Masterplan_Veloinfrastruktur_Standards  
+https://www.melbourne.vic.gov.au/sitecollectiondocuments/bike-lane-design-guidelines.pdf   
 https://parisenselle.fr/guide-amenagements-cyclables-paris-en-selle/              
 https://crowplatform.com/product/design-manual-for-bicycle-traffic/              
 
