@@ -16,7 +16,7 @@ Damit wir das professionell aufsetzen können, brauchen wir eine Minimalfinanzie
 - Arbeit von Genossenschafter\*innen wird nicht in CHF bezahlt, sondern in Ostrom, unserer Genossenschaftswährung
 
 ### 2 Möglichkeiten das Projekt zu finanzieren
-- [Werde Genossenschafter\*in mit dem Vermerk: **GVOBS** - CHF 100 bis max. CHF 250](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md).
+- [Werde Genossenschafter\*in](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md) mit dem Vermerk: **GVOBS** - CHF 100 bis max. CHF 250.        
   Als Genossenschafter\*in kannst Du Dich aktiv ins Projekt einbringen. 
 - Spende einen Beitrag mit Vermerk **VOBS SPENDE**. Als Spender\*in wirst Du namentlich auf der Seite aufgeführt.            
   Ab CHF 500.- auch mit Logo.             
