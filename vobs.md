@@ -4,7 +4,8 @@
 ## posmo.coop/vobs
 
 Vorbild:    
-https://planvelo.paris
+https://planvelo.paris          
+https://fixmyberlin.de/zustand        
 
 Mit [Neuklassifizierung der Wege und Knoten (siehe unten)](https://github.com/posmocoop/spatial_future/blob/master/vobs.md#neuklassifizierung-velobahnen)
 
