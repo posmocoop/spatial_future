@@ -13,11 +13,17 @@ https://fixmyberlin.de/zustand
 Mit [Neuklassifizierung der Wege und Knoten (siehe unten)](https://github.com/posmocoop/spatial_future/blob/master/vobs.md#neuklassifizierung-velobahnen)
 
 
-## Kosten Projekt 1, Version 1:
+## Kosten Projekt 1, Version 1 (entspricht 1a unten)
 Damit wir das professionell aufsetzen können, brauchen wir eine Minimalfinanzierung. Wir rechnen mit CHF 2'000.– für eine Map mit Klassifizierungslegende, wo man alle Velostrassen in unserer neuen Klassifizierung klassifizieren kann. 
 
 - Startbudget: CHF 2000.- für Arbeit von Nicht-Genossenschafter\*innen
 - Arbeit von Genossenschafter\*innen wird nicht in CHF bezahlt, sondern in Ostrom, unserer Genossenschaftswährung
+
+### Subprojekte
+1a) Karte wie Paris - Masterplan, Neuer Masterplan, Grau=Plan, Grün=Umgesetzt Genügend, Rot= Ungenügend Umgesetzt + Klassifizierung mit Illu / Photo
+1b) Status Quo aller Strassen - durch die Crowd editiert (Admin Seite - Public Seite)
+1c) Planungen
+
 
 ### 2 Möglichkeiten das Projekt zu finanzieren
 - [Werde Genossenschafter\*in](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md) mit dem Vermerk: **GVOBS** - CHF 100 bis max. CHF 250.        
