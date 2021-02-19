@@ -20,9 +20,9 @@ Damit wir das professionell aufsetzen können, brauchen wir eine Minimalfinanzie
 - Arbeit von Genossenschafter\*innen wird nicht in CHF bezahlt, sondern in Ostrom, unserer Genossenschaftswährung
 
 ### Subprojekte
-1a) Karte wie Paris - Masterplan, Neuer Masterplan, Grau=Plan, Grün=Umgesetzt Genügend, Rot= Ungenügend Umgesetzt + Klassifizierung mit Illu / Photo
-1b) Status Quo aller Strassen - durch die Crowd editiert (Admin Seite - Public Seite)
-1c) Planungen
+- 1a) Karte wie Paris - Masterplan, Neuer Masterplan, Grau=Plan, Grün=Umgesetzt Genügend, Rot= Ungenügend Umgesetzt + Klassifizierung mit Illu / Photo
+- 1b) Status Quo aller Strassen - durch die Crowd editiert (Admin Seite - Public Seite)
+- 1c) Planungen
 
 
 ### 2 Möglichkeiten das Projekt zu finanzieren
