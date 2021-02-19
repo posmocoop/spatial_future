@@ -1,5 +1,8 @@
 # VOBS - Velo Observatorium
 
+## Nächstes Meeting: 4. März, 14 Uhr
+Zoom-Einladung via Slack-Channel #vobs
+
 
 ## posmo.coop/vobs
 
