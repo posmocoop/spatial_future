@@ -50,6 +50,7 @@ Am Wasser 59
 ### Bisherige Sponsoren
 - Pro Velo Zürich
 - Freitag
+- Kaywa 
 
 
 ## Neuklassifizierung Velobahnen
