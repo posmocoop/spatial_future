@@ -47,6 +47,10 @@ Am Wasser 59
 8049 Zürich       
 ```
 
+### Bisherige Sponsoren
+- ProVelo Zürich
+- Freitag
+
 
 ## Neuklassifizierung Velobahnen
 
