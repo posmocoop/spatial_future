@@ -56,6 +56,15 @@ Am Wasser 59
 ## Neuklassifizierung Velobahnen
 
 ### Wege - Edges
+NEU: 4 Kategorien            
+           
+Möglichkeiten:      
+- Hervorragend
+- Gut 
+- Knapp Vorbei!
+- Ungenügend
+
+
 
 ![Neuklassifizierung Velowege](https://github.com/posmocoop/spatial_future/blob/master/neuklassifizierung_velo_wege.png?raw=true)
 
