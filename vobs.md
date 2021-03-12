@@ -48,7 +48,7 @@ Am Wasser 59
 ```
 
 ### Bisherige Sponsoren
-- ProVelo Zürich
+- Pro Velo Zürich
 - Freitag
 
 
