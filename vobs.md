@@ -1,10 +1,10 @@
-# VOBS - Velo Observatorium
+# VelObserver - Velo Observatorium
 
-## Nächstes Meeting: Mittwoch, 17. März, 14 Uhr
+## Letztes Meeting: Mittwoch, 17. März, 14-16:30 Uhr
 Zoom-Einladung via Slack-Channel #vobs
 
 
-## posmo.coop/vobs
+## posmo.coop/velobserver (upcoming)
 
 Vorbild:    
 https://planvelo.paris          
@@ -14,7 +14,8 @@ Mit [Neuklassifizierung der Wege und Knoten (siehe unten)](https://github.com/po
 
 
 ## Kosten Projekt 1, Version 1 (entspricht 1a unten)
-Damit wir das professionell aufsetzen können, brauchen wir eine Minimalfinanzierung. Wir rechnen mit CHF 2'000.– für eine Map mit Klassifizierungslegende, wo man alle Velostrassen in unserer neuen Klassifizierung klassifizieren kann. 
+Damit wir das professionell aufsetzen können, brauchen wir eine Minimalfinanzierung. 
+Wir rechnen mit CHF 2'000.– für eine Map mit Klassifizierungslegende, wo man alle Velostrassen in unserer neuen Klassifizierung klassifizieren kann. 
 
 - Startbudget: CHF 2000.- für Arbeit von Nicht-Genossenschafter\*innen
 - Arbeit von Genossenschafter\*innen wird nicht in CHF bezahlt, sondern in Ostrom, unserer Genossenschaftswährung
@@ -51,6 +52,7 @@ Am Wasser 59
 - Pro Velo Zürich
 - Freitag
 - Kaywa 
+- Datamap
 
 
 ## Neuklassifizierung Velobahnen
