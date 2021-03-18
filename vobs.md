@@ -1,4 +1,5 @@
-# VelObserver - Velo Observatorium
+# VelObserver
+Velo Observatorium
 
 ## Letztes Meeting: Mittwoch, 17. März, 14-16:30 Uhr
 Zoom-Einladung via Slack-Channel #vobs
