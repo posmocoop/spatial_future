@@ -5,7 +5,7 @@ Velo Observatorium
 Zoom-Einladung via Slack-Channel #vobs
 
 
-## posmo.coop/velobserver (upcoming)
+## posmo.coop/velobserver & velobserver.ch (upcoming)
 
 Vorbild:    
 https://planvelo.paris          
