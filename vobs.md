@@ -14,12 +14,12 @@ https://fixmyberlin.de/zustand
 Mit [Neuklassifizierung der Wege und Knoten (siehe unten)](https://github.com/posmocoop/spatial_future/blob/master/vobs.md#neuklassifizierung-velobahnen)
 
 
-### Start mit Subprojekten von 1
-- 1a Karte wie Paris planvelo - Masterplan, Neuer Masterplan, Grau=Plan, Grün=Umgesetzt Genügend, Rot= Ungenügend Umgesetzt. Klassifizierung mit Illu / Photo
-- 1b Status Quo aller Strassen - durch die Crowd editiert (Admin Seite - Public Seite), wie fixmyberlin, happy bike level
-- 1c Planungen
-- 2 Velobahnen durchs Zentrum
-- 3 Noch geheim
+### Übersicht; Start mit Subprojekten von 1
+- 1.a Karte wie Paris planvelo - Masterplan, Neuer Masterplan, Grau=Plan, Grün=Umgesetzt Genügend, Rot= Ungenügend Umgesetzt. Klassifizierung mit Illu / Photo
+- 1.b Status Quo aller Strassen - durch die Crowd editiert (Admin Seite - Public Seite), wie fixmyberlin, happy bike level
+- 1.c Planungen
+- 2. Velobahnen durchs Zentrum
+- 3. Noch geheim
                 
 Damit wir 1a) professionell aufsetzen können, brauchen wir eine Minimalfinanzierung.   
 Wir rechnen mit CHF 2'000.– für eine Masterplan-Map mit Klassifizierungslegende, wo man alle Velostrassen in unserer neuen Klassifizierung klassifizieren kann.
@@ -48,7 +48,7 @@ Velobahnen V2 (Schlieren-Zollikon), V7 (Stettbach-Wollishofen), weitere
 
 
 ## 2 Möglichkeiten das Projekt zu finanzieren
-- GENOSSENSCHAFTER\*INNEN: [Werde Genossenschafter\*in](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md) mit dem Vermerk: **GVOBS** - CHF 100 bis max. CHF 250.         
+- GENOSSENSCHAFTER\*INNEN: [Werde Genossenschafter\*in](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md) mit dem Vermerk: **GVOBS** - CHF 100.– bis max. CHF 250.–.         
   Als Genossenschafter\*in kannst Du Dich aktiv ins Projekt einbringen.      
 - SPONSOREN: Spende einen Beitrag mit Vermerk **VOBS SPENDE**. Als Spender\*in wirst Du namentlich auf der Seite aufgeführt.             
   Ab CHF 500.- auch prominenter.             
@@ -71,12 +71,12 @@ Am Wasser 59
 
 ### Bisherige Sponsoren
 Zugesagt: 
-- Freitag
+- [Freitag](https://www.freitag.ch)
 
 Eingetroffen:
-- Pro Velo Zürich
-- Kaywa 
-- Datamap
+- [Pro Velo Zürich](https://www.provelozuerich.ch)
+- [Kaywa](https://qrcode.kaywa.com) 
+- [Datamap](https://datamap.io)
 
 ### Bisheriges Budget
 GVOBS: 1200-120(REVFO\*) = 1080              
