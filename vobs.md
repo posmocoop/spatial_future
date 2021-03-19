@@ -80,7 +80,7 @@ Eingetroffen:
 
 ### Bisheriges Budget
 GVOBS: CHF 1080.–                  
-1200-120(REVFO\*)    
+1200-120 (REVFO\*)    
         
 Sponsoren: CHF 1800.–    
 2000-200 (REVFO)                
