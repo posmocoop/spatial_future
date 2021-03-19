@@ -79,11 +79,11 @@ Eingetroffen:
 - Datamap
 
 ### Bisheriges Budget
-GVOBS: 1200-120(REVF\*) = 1080              
-Sponsoren: 2000-200 (REVF) = 1800              
+GVOBS: 1200-120(REVFO\*) = 1080              
+Sponsoren: 2000-200 (REVFO) = 1800              
 = 2880               
               
-\* REVF: Alle Eingänge gehen zu 10% in den Reservefonds          
+\* REVFO: 10% aller Eingänge gehen in den Reservefonds          
 
 
 ## Neuklassifizierung Velobahnen
