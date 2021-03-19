@@ -14,40 +14,40 @@ https://fixmyberlin.de/zustand
 Mit [Neuklassifizierung der Wege und Knoten (siehe unten)](https://github.com/posmocoop/spatial_future/blob/master/vobs.md#neuklassifizierung-velobahnen)
 
 
-
-### 1. Subprojekte
+### Start mit Subprojekten von 1
 - 1a) Karte wie Paris - Masterplan, Neuer Masterplan, Grau=Plan, Grün=Umgesetzt Genügend, Rot= Ungenügend Umgesetzt + Klassifizierung mit Illu / Photo
 - 1b) Status Quo aller Strassen - durch die Crowd editiert (Admin Seite - Public Seite)
 - 1c) Planungen
+- 2) Velobahnen durchs Zentrum
+- 3) Noch geheim
                 
-Damit wir das professionell aufsetzen können, brauchen wir eine Minimalfinanzierung.   
-Wir rechnen mit CHF 2'000.– für eine Masterplan-Map mit Klassifizierungslegende, wo man alle Velostrassen in unserer neuen Klassifizierung klassifizieren kann. 
+Damit wir 1a) professionell aufsetzen können, brauchen wir eine Minimalfinanzierung.   
+Wir rechnen mit CHF 2'000.– für eine Masterplan-Map mit Klassifizierungslegende, wo man alle Velostrassen in unserer neuen Klassifizierung klassifizieren kann.
 
-
-## Kosten Projekt 1a, Version 1 - finanziert
+ 
+## Projekt 1a, Version 1 - finanziert
 - Startbudget velobserver: CHF 2000.- für Arbeit von Nicht-Genossenschafter\*innen
 - Arbeit von Genossenschafter\*innen wird nicht in CHF bezahlt, sondern in Ostrom, unserer Genossenschaftswährung
 
-## Kosten Projekt 1b, Version 1
+## Projekt 1b, Version 1
 - Budget für Public-Seite: Zu definieren
 - Admin-Seite wird von Datamap übernommen, da durch Posmo One, bereits ein Login/Rollen usw. besteht
 
-## Kosten Projekt 1c, Version 1
+## Projekt 1c, Version 1
 - Budget: Zu definieren          
 
-## Kosten Projekt 2:
+## Projekt 2:
 Velobahnen V2 (Schlieren-Zollikon), V7 (Stettbach-Wollishofen)
-
 - Budget: Zu definieren
 
-## Kosten Projekt 3:
+## Projekt 3:
 (noch geheim)
 
 
-### 2 Möglichkeiten das Projekt zu finanzieren
-- [Werde Genossenschafter\*in](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md) mit dem Vermerk: **GVOBS** - CHF 100 bis max. CHF 250.        
+## 2 Möglichkeiten das Projekt zu finanzieren
+- GENOSSENSCHAFTER\*INNEN: [Werde Genossenschafter\*in](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md) mit dem Vermerk: **GVOBS** - CHF 100 bis max. CHF 250.        
   Als Genossenschafter\*in kannst Du Dich aktiv ins Projekt einbringen. 
-- Spende einen Beitrag mit Vermerk **VOBS SPENDE**. Als Spender\*in wirst Du namentlich auf der Seite aufgeführt.            
+- SPONSOREN: Spende einen Beitrag mit Vermerk **VOBS SPENDE**. Als Spender\*in wirst Du namentlich auf der Seite aufgeführt.            
   Ab CHF 500.- auch mit Logo.             
 
 Einzahlung auf:
@@ -75,22 +75,24 @@ Eingetroffen:
 - Kaywa 
 - Datamap
 
+### Bisheriges Budget
+GVOBS: 1200-120(REVF\*) = 1080
+Sponsoren: 2000-200 (REVF) = 1800
+= 2880
+
+\* REVF: Alle Eingänge gehen zu 10% in den Reservefonds
+
 
 ## Neuklassifizierung Velobahnen
 
 ### Wege - Edges
-NEU: 4 Kategorien            
-           
-Möglichkeiten:      
+NEU: 4 Kategorien                 
 - Hervorragend
 - Gut 
 - Knapp Vorbei!
 - Ungenügend
 
-
-
-![Neuklassifizierung Velowege](https://github.com/posmocoop/spatial_future/blob/master/neuklassifizierung_velo_wege.png?raw=true)
-
+Siehe: [Pressemitteilung](https://github.com/posmocoop/spatial_future/blob/master/Medienmitteilung_VelObserver_2021-03-19.pdf)
 
 ### Knoten - Nodes
 Unfälle passieren vor allem an den Knoten. Wir müssen also Knoten genauso klassifizieren wie Wege.
@@ -111,3 +113,5 @@ https://crowplatform.com/product/design-manual-for-bicycle-traffic/
 https://data.stadt-zuerich.ch/dataset/ktzh_veloinfrastruktur_radwege_und_radstreifen
 
 
+### Historisch
+![Neuklassifizierung Velowege](https://github.com/posmocoop/spatial_future/blob/master/neuklassifizierung_velo_wege.png?raw=true)
