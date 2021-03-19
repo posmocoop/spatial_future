@@ -15,11 +15,11 @@ Mit [Neuklassifizierung der Wege und Knoten (siehe unten)](https://github.com/po
 
 
 ### Übersicht; Start mit Subprojekten von 1
-- 1.a Karte wie Paris planvelo - Masterplan, Neuer Masterplan, Grau=Plan, Grün=Umgesetzt Genügend, Rot= Ungenügend Umgesetzt. Klassifizierung mit Illu / Photo
-- 1.b Status Quo aller Strassen - durch die Crowd editiert (Admin Seite - Public Seite), wie fixmyberlin, happy bike level
-- 1.c Planungen
-- 2. Velobahnen durchs Zentrum
-- 3. Noch geheim
+- 1a: Karte wie Paris planvelo - Masterplan, Neuer Masterplan, Grau=Plan, Grün=Umgesetzt Genügend, Rot= Ungenügend Umgesetzt. Klassifizierung mit Illu / Photo
+- 1b: Status Quo aller Strassen - durch die Crowd editiert (Admin Seite - Public Seite), wie fixmyberlin, happy bike level
+- 1c: Planungen
+- 2: Velobahnen von der Peripherie durchs Zentrum
+- 3: Noch geheim
                 
 Damit wir 1a) professionell aufsetzen können, brauchen wir eine Minimalfinanzierung.   
 Wir rechnen mit CHF 2'000.– für eine Masterplan-Map mit Klassifizierungslegende, wo man alle Velostrassen in unserer neuen Klassifizierung klassifizieren kann.
@@ -40,7 +40,7 @@ Siehe https://fixmyberlin.de/planungen
 - Budget: Zu definieren          
 
 ## Projekt 2:
-Velobahnen V2 (Schlieren-Zollikon), V7 (Stettbach-Wollishofen), weitere
+Velobahnen V2 (Schlieren-Zollikon), V7 (Stettbach-Wollishofen), weitere                 
 - Budget: Zu definieren
 
 ## Projekt 3:
