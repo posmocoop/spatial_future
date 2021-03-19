@@ -26,18 +26,21 @@ Wir rechnen mit CHF 2'000.– für eine Masterplan-Map mit Klassifizierungslegen
 
  
 ## Projekt 1a, Version 1 - finanziert
+Siehe: https://planvelo.paris  
 - Startbudget velobserver: CHF 2000.- für Arbeit von Nicht-Genossenschafter\*innen
 - Arbeit von Genossenschafter\*innen wird nicht in CHF bezahlt, sondern in Ostrom, unserer Genossenschaftswährung
 
-## Projekt 1b, Version 1
+## Projekt 1b, Version 1 
+Siehe https://fixmyberlin.de/zustand
 - Budget für Public-Seite: Zu definieren
 - Admin-Seite wird von Datamap übernommen, da durch Posmo One, bereits ein Login/Rollen usw. besteht
 
 ## Projekt 1c, Version 1
+Siehe https://fixmyberlin.de/planungen
 - Budget: Zu definieren          
 
 ## Projekt 2:
-Velobahnen V2 (Schlieren-Zollikon), V7 (Stettbach-Wollishofen)
+Velobahnen V2 (Schlieren-Zollikon), V7 (Stettbach-Wollishofen), weitere
 - Budget: Zu definieren
 
 ## Projekt 3:
@@ -45,9 +48,9 @@ Velobahnen V2 (Schlieren-Zollikon), V7 (Stettbach-Wollishofen)
 
 
 ## 2 Möglichkeiten das Projekt zu finanzieren
-- GENOSSENSCHAFTER\*INNEN: [Werde Genossenschafter\*in](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md) mit dem Vermerk: **GVOBS** - CHF 100 bis max. CHF 250.        
-  Als Genossenschafter\*in kannst Du Dich aktiv ins Projekt einbringen. 
-- SPONSOREN: Spende einen Beitrag mit Vermerk **VOBS SPENDE**. Als Spender\*in wirst Du namentlich auf der Seite aufgeführt.            
+- GENOSSENSCHAFTER\*INNEN: [Werde Genossenschafter\*in](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md) mit dem Vermerk: **GVOBS** - CHF 100 bis max. CHF 250.         
+  Als Genossenschafter\*in kannst Du Dich aktiv ins Projekt einbringen.      
+- SPONSOREN: Spende einen Beitrag mit Vermerk **VOBS SPENDE**. Als Spender\*in wirst Du namentlich auf der Seite aufgeführt.             
   Ab CHF 500.- auch mit Logo.             
 
 Einzahlung auf:
@@ -76,22 +79,22 @@ Eingetroffen:
 - Datamap
 
 ### Bisheriges Budget
-GVOBS: 1200-120(REVF\*) = 1080
-Sponsoren: 2000-200 (REVF) = 1800
-= 2880
-
-\* REVF: Alle Eingänge gehen zu 10% in den Reservefonds
+GVOBS: 1200-120(REVF\*) = 1080              
+Sponsoren: 2000-200 (REVF) = 1800              
+= 2880               
+              
+\* REVF: Alle Eingänge gehen zu 10% in den Reservefonds          
 
 
 ## Neuklassifizierung Velobahnen
 
 ### Wege - Edges
-NEU: 4 Kategorien                 
+NEU: 4 Kategorien                     
 - Hervorragend
 - Gut 
 - Knapp Vorbei!
 - Ungenügend
-
+                   
 Siehe: [Pressemitteilung](https://github.com/posmocoop/spatial_future/blob/master/Medienmitteilung_VelObserver_2021-03-19.pdf)
 
 ### Knoten - Nodes
