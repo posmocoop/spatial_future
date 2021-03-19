@@ -79,9 +79,13 @@ Eingetroffen:
 - [Datamap](https://datamap.io)
 
 ### Bisheriges Budget
-GVOBS: 1200-120(REVFO\*) = 1080              
-Sponsoren: 2000-200 (REVFO) = 1800              
-= 2880               
+GVOBS: CHF 1080.–                  
+1200-120(REVFO\*)    
+        
+Sponsoren: CHF 1800.–    
+2000-200 (REVFO)                
+        
+TOTAL: CHF 2880.–                
               
 \* REVFO: 10% aller Eingänge gehen in den Reservefonds          
 
