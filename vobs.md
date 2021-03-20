@@ -72,7 +72,8 @@ Am Wasser 59
 8049 Zürich       
 ```
 ### Bisherige GVOBS-Genossenschafter\*innen
-5
+- 5 Neugenoss\*innen
+- 2 Altgenoss\*innen, die ihren Beitrag erhöht haben
 
 
 ### Bisherige Sponsoren
@@ -96,7 +97,7 @@ TOTAL: CHF 2880.–
 \* REVFO: 10% aller Eingänge gehen in den Reservefonds          
 
 
-## Neuklassifizierung Velobahnen
+## Neuklassifizierung Velorouten
 
 ### Wege - Edges
 
