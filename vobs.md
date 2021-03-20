@@ -41,9 +41,11 @@ Siehe https://fixmyberlin.de/planungen
 - Budget: Zu definieren          
 
 ## Projekt 2:
-Velobahnen V2 (Schlieren-Zollikon), V7 (Stettbach-Wollishofen), weitere                 
+Durchgängig Velobahnen V2 (Schlieren-Zollikon), V7 (Stettbach-Wollishofen)     
+Übersicht und Detail. Mögliche Alternativrouten durchs Zentrum.           
+                       
 - Budget: Zu definieren
-
+               
 ## Projekt 3:
 (noch geheim)
 
