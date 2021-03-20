@@ -71,6 +71,9 @@ Genossenschaft Posmo Schweiz
 Am Wasser 59          
 8049 Zürich       
 ```
+### Bisherige GVOBS-Genossenschafter\*innen
+5
+
 
 ### Bisherige Sponsoren
 Zugesagt: 
