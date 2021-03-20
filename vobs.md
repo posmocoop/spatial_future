@@ -1,8 +1,13 @@
 # VelObserver
-Velo Observatorium
+Velo Observatorium für Zürich und andere Schweizer Städte
+
+- Crowdfunded
+- Crowdsourced
+- Citizen Science
+
 
 ## Letztes Meeting: Mittwoch, 17. März, 14-16:30 Uhr
-Zoom-Einladung via Slack-Channel #vobs
+Zoom-Einladung via Slack-Channel #velObserver
 
 
 ## posmo.coop/velobserver & velobserver.ch (upcoming)
