@@ -106,13 +106,11 @@ NEU: 4 Kategorien
 - Knapp Vorbei!
 - Ungenügend
 
-<object data="https://github.com/posmocoop/spatial_future/blob/master/Medienmitteilung_VelObserver_2021-03-19.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/posmocoop/spatial_future/blob/master/Medienmitteilung_VelObserver_2021-03-19.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-                   
 Siehe: [Pressemitteilung](https://github.com/posmocoop/spatial_future/blob/master/Medienmitteilung_VelObserver_2021-03-19.pdf)
+
+![brief](https://github.com/posmocoop/spatial_future/blob/master/vertrauen_ist_gut_kontrolle_ist_besser.png)
+![rating](https://github.com/posmocoop/spatial_future/blob/master/velObserver_rating.png)
+
 
 ### Knoten - Nodes
 Unfälle passieren vor allem an den Knoten. Wir müssen also Knoten genauso klassifizieren wie Wege.
