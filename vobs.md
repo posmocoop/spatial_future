@@ -22,7 +22,7 @@ Mit [Neuklassifizierung der Wege und Knoten (siehe unten)](https://github.com/po
 - 3: Noch geheim
                 
 Damit wir 1a) professionell aufsetzen können, brauchen wir eine Minimalfinanzierung.   
-Wir rechnen mit CHF 2'000.– für eine Masterplan-Map mit Klassifizierungslegende, wo man alle Velostrassen in unserer neuen Klassifizierung klassifizieren kann.
+Wir rechnen mit CHF 2'000.– für eine Masterplan-Map mit Klassifizierungslegende. 1a ermöglicht somit 1b, damit man alle Velostrassen in unserer neuen Klassifizierung unter 1b klassifizieren kann.
 
  
 ## Projekt 1a, Version 1 - finanziert
@@ -34,6 +34,7 @@ Siehe: https://planvelo.paris
 Siehe https://fixmyberlin.de/zustand
 - Budget für Public-Seite: Zu definieren
 - Admin-Seite wird von Datamap übernommen, da durch Posmo One, bereits ein Login/Rollen usw. besteht
+- To discuss: Klassifizierungsarbeit von Genossenschafter\*innen könnte in Ostrom, unserer Genossenschaftswährung, abgegolten werden. 
 
 ## Projekt 1c, Version 1
 Siehe https://fixmyberlin.de/planungen
