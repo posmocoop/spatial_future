@@ -1,8 +1,12 @@
 # VelObserver
 Velo Observatorium für Zürich und andere Schweizer Städte
-          
-<img src="https://github.com/posmocoop/spatial_future/blob/master/VelObserver4.png" width="200" />
 
+<table border="0"><tr>        
+<td><img src="https://github.com/posmocoop/spatial_future/blob/master/VelObserver3.png" width="200" /></td>
+<td><img src="https://github.com/posmocoop/spatial_future/blob/master/VelObserver2.png" width="200" /></td>
+<td><img src="https://github.com/posmocoop/spatial_future/blob/master/VelObserver4.png" width="200" /></td>
+<td><img src="https://github.com/posmocoop/spatial_future/blob/master/VelObserver4.png" width="200" /></td>
+</tr></table>
 
 - Crowdfunded
 - Crowdsourced
