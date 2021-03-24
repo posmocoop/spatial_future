@@ -2,7 +2,7 @@
 Velo Observatorium für Zürich und andere Schweizer Städte
 
 <table border="0" cellspacing="0" cellpadding="0"><tr style="border-collapse: collapse; border: none;">        
-<td><img src="https://github.com/posmocoop/spatial_future/blob/master/VelObserver3.png" width="250" /></td>
+<td style="border-collapse: collapse; border: none;"><img src="https://github.com/posmocoop/spatial_future/blob/master/VelObserver3.png" width="250" /></td>
 <td><img src="https://github.com/posmocoop/spatial_future/blob/master/VelObserver2.png" width="250" /></td>
 <td><img src="https://github.com/posmocoop/spatial_future/blob/master/VelObserver4.png" width="250" /></td>
 <td><img src="https://github.com/posmocoop/spatial_future/blob/master/VelObserver4.png" width="250" /></td>
