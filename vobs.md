@@ -1,5 +1,8 @@
 # VelObserver
 Velo Observatorium für Zürich und andere Schweizer Städte
+          
+![VelObserver](https://github.com/posmocoop/spatial_future/blob/master/VelObserver4.png)
+
 
 - Crowdfunded
 - Crowdsourced
