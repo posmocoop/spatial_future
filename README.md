@@ -1,6 +1,9 @@
 # Spatial Future
+## NEW PROJECT: VelObserver
+![VelObserver](https://github.com/posmocoop/spatial_future/blob/master/vobs.md)
 
-## NEW PROJECT: BikemappingZRH
+
+## BikemappingZRH
 ![Bikemap Paris](https://raw.githubusercontent.com/posmocoop/spatial_future/master/paris.jpeg)
     
 
