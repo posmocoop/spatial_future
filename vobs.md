@@ -90,13 +90,13 @@ Am Wasser 59
 
 ### Bisherige Sponsoren
 Zugesagt: 
-- [Freitag](https://www.freitag.ch)
+- [Freitag](https://www.freitag.ch) (CHF 500.–)
 - [Liip](https://www.liip.ch)
 
 Eingetroffen:
-- [Pro Velo Zürich](https://www.provelozuerich.ch)
-- [Kaywa](https://qrcode.kaywa.com) 
-- [Datamap](https://datamap.io)
+- [Pro Velo Zürich](https://www.provelozuerich.ch), (CHF 500.–)
+- [Kaywa](https://qrcode.kaywa.com), (CHF 500.–)
+- [Datamap](https://datamap.io), (CHF 500.–)
 
 ### Bisheriges Budget
 GVOBS: CHF 1080.–                  
