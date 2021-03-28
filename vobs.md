@@ -91,6 +91,7 @@ Am Wasser 59
 ### Bisherige Sponsoren
 Zugesagt: 
 - [Freitag](https://www.freitag.ch)
+- [Liip](https://www.liip.ch)
 
 Eingetroffen:
 - [Pro Velo Zürich](https://www.provelozuerich.ch)
