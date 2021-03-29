@@ -45,7 +45,8 @@ Siehe: https://planvelo.paris
 ## Projekt 1b, Version 1 
 Siehe https://fixmyberlin.de/zustand
 - Budget für Public-Seite: Zu definieren
-- Admin-Seite wird von Datamap übernommen, da durch Posmo One, bereits ein Login/Rollen usw. besteht
+- Admin-Seite wird in einem ersten Schritt von Datamap übernommen, da wir so schnell sind und durch Posmo One, bereits ein Login/Rollen, Maps, Graphs usw. besteht. 
+  Zu einem späteren Zeitpunkt, mit angemessenen Budget, kann das auch mitsamt Code an Posmo übertragen werden. 
 - To discuss: Klassifizierungsarbeit von Genossenschafter\*innen könnte in Ostrom, unserer Genossenschaftswährung, abgegolten werden. 
 
 ## Projekt 1c, Version 1
