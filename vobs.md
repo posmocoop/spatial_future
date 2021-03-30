@@ -94,7 +94,7 @@ Am Wasser 59
 Firmenspenden
 
 Angefragt:
-- [Liip](https://www.liip.ch)
+- [Liip](https://www.liip.ch), 27. März 2021
 
 Zugesagt: 
 - [Freitag](https://www.freitag.ch) (CHF 500.–)
