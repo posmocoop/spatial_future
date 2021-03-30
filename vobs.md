@@ -90,11 +90,14 @@ Am Wasser 59
 - 5 Neugenoss\*innen
 - 2 Altgenoss\*innen, die ihren Beitrag erhöht haben
 
+### No Bike, No Business! 
+Firmenspenden
 
-### Bisherige Sponsoren
+Angefragt:
+- [Liip](https://www.liip.ch)
+
 Zugesagt: 
 - [Freitag](https://www.freitag.ch) (CHF 500.–)
-- [Liip](https://www.liip.ch)
 
 Eingetroffen:
 - [Pro Velo Zürich](https://www.provelozuerich.ch), (CHF 500.–)
