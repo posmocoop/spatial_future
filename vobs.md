@@ -108,7 +108,7 @@ Eingetroffen:
 GVOBS: CHF 1080.–                  
 1200-120 (REVFO\*)    
         
-Sponsoren: CHF 1800.–    
+No Bike, No Business: CHF 1800.–    
 2000-200 (REVFO)                
         
 TOTAL: CHF 2880.–                
