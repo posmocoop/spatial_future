@@ -12,6 +12,8 @@ Velo Observatorium für Zürich und andere Schweizer Städte
 - Crowdsourced
 - Citizen Science
 
+## Nächstes Meeting: Mittwoch, 31. März, 11 Uhr
+Zoom-Einladung via Slack-Channel #velObserver
 
 ## Letztes Meeting: Mittwoch, 17. März, 14-16:30 Uhr
 Zoom-Einladung via Slack-Channel #velObserver
