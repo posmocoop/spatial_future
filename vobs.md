@@ -101,6 +101,7 @@ Zugesagt:
 - [Freitag](https://www.freitag.ch) (CHF 500.–)
 
 Eingetroffen:
+- [Urbanista AG](https://urbanista.ch), (CHF 500.–)
 - [Pro Velo Zürich](https://www.provelozuerich.ch), (CHF 500.–)
 - [Kaywa](https://qrcode.kaywa.com), (CHF 500.–)
 - [Datamap](https://datamap.io), (CHF 500.–)
@@ -109,10 +110,10 @@ Eingetroffen:
 GVOBS: CHF 1395.–                  
 1550-155 (REVFO\*)    
         
-No Bike, No Business: CHF 1800.–    
-2000-200 (REVFO)                
+No Bike, No Business: CHF 2250.–    
+2500-250 (REVFO)                
         
-TOTAL: CHF 3195.–                
+TOTAL: CHF 3645.–                
               
 \* REVFO: 10% aller Eingänge gehen in den Reservefonds          
 
