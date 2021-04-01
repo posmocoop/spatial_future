@@ -87,7 +87,7 @@ Am Wasser 59
 8049 Zürich       
 ```
 ### Bisherige GVOBS-Genossenschafter\*innen
-- 6 Neugenoss\*innen
+- 7 Neugenoss\*innen
 - 2 Altgenoss\*innen, die ihren Beitrag erhöht haben
 
 ### No Bike, No Business! 
@@ -106,13 +106,13 @@ Eingetroffen:
 - [Datamap](https://datamap.io), (CHF 500.–)
 
 ### Bisheriges Budget
-GVOBS: CHF 1305.–                  
-1450-145 (REVFO\*)    
+GVOBS: CHF 1395.–                  
+1550-155 (REVFO\*)    
         
 No Bike, No Business: CHF 1800.–    
 2000-200 (REVFO)                
         
-TOTAL: CHF 3105.–                
+TOTAL: CHF 3195.–                
               
 \* REVFO: 10% aller Eingänge gehen in den Reservefonds          
 
