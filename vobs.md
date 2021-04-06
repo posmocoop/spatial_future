@@ -41,7 +41,7 @@ Wir rechnen mit CHF 2'000.– für eine Masterplan-Map mit Klassifizierungslegen
  
 ## Projekt 1a, Version 1 - finanziert
 Siehe: https://planvelo.paris  
-- Startbudget velobserver: CHF 2000.- für Arbeit von Nicht-Genossenschafter\*innen
+- Startbudget velobserver: Design & Implementation für Arbeit von Nicht-Genossenschafter\*innen
 - Arbeit von Genossenschafter\*innen wird nicht in CHF bezahlt, sondern in Ostrom, unserer Genossenschaftswährung
 
 ## Projekt 1b, Version 1 
