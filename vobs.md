@@ -13,7 +13,7 @@ Velo Observatorium für Zürich und andere Schweizer Städte
 - Citizen Science
 
 ## Nächste Meetings
-Fotosession: Mittwoch, 14. April, 7:30-9:30  (Startstrasse via Felix, Yvonne)
+Fotosession: Mittwoch, 14. April, 7:30-9:30  (Startstrasse via Felix, Yvonne)        
 Nächstes Zoom-Meeting: 22. April, 10:30
 
 ## Letztes Meeting: Mittwoch, 7. April, 8-9:45 Uhr
