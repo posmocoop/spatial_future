@@ -12,10 +12,11 @@ Velo Observatorium für Zürich und andere Schweizer Städte
 - Crowdsourced
 - Citizen Science
 
-## Nächstes Meeting: Mittwoch, 31. März, 11 Uhr
-Zoom-Einladung via Slack-Channel #velObserver
+## Nächste Meetings
+Fotosession: Mittwoch, 14. April, 7:30-9:30  (Startstrasse via Felix, Yvonne)
+Nächstes Zoom-Meeting: 22. April, 10:30
 
-## Letztes Meeting: Mittwoch, 17. März, 14-16:30 Uhr
+## Letztes Meeting: Mittwoch, 7. April, 8-9:45 Uhr
 Zoom-Einladung via Slack-Channel #velObserver
 
 
@@ -63,6 +64,12 @@ Durchgängig Velobahnen V2 (Schlieren-Zollikon), V7 (Stettbach-Wollishofen)
                
 ## Projekt 3:
 (noch geheim)
+
+## (Projekt 4):
+Aufschlüsselung des gesamten Verkehrsbudgets (indirekte und direkte Kosten) und der Verteilung auf Aktive Mobilität, ÖV, MIV (inkl. Strassen, Parkplätze) in der Stadt und im Kanton Zürich inkl. Bund
+
+
+
 
 
 ## 2 Möglichkeiten das VelObserver-Projekt zu finanzieren
