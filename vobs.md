@@ -42,16 +42,16 @@ Damit wir 1a) professionell aufsetzen können, brauchen wir eine Minimalfinanzie
 Wir rechnen mit CHF 2'000.– für eine Masterplan-Map mit Klassifizierungslegende. 1a ermöglicht somit 1b, damit man alle Velostrassen in unserer neuen Klassifizierung unter 1b klassifizieren kann.
 
  
-## Projekt 1a, Version 1 - finanziert
+## Projekt 1a. Veloplan - finanziert, in Umsetzung
 Siehe: https://planvelo.paris  
 - Startbudget velobserver: Design & Implementation für Arbeit von Nicht-Genossenschafter\*innen
 - Arbeit von Genossenschafter\*innen wird nicht in CHF bezahlt, sondern in Ostrom, unserer Genossenschaftswährung
 
-## Projekt Bike-Index, Version 1 
+## Projekt 1b. Bike-Index, Version 1 
 Siehe https://fixmyberlin.de/zustand
 - Budgetiert
 
-## Projekt 1c, Version 1
+## Projekt 1c. Planungen, Version 1
 Siehe https://fixmyberlin.de/planungen
 - Budget: Zu definieren          
 
@@ -71,7 +71,33 @@ Aufschlüsselung des gesamten Verkehrsbudgets (indirekte und direkte Kosten) und
 
 
 
-## 2 Möglichkeiten das VelObserver-Projekt zu finanzieren
+## 3 Möglichkeiten das VelObserver-Projekt zu finanzieren
+- Spenden via Twint 
+
+<table border="0">
+  <tr>
+    <td align="center">
+<b>Mit TWINT für den VelObserver spenden!</b>     
+                    
+                                  
+Öffne deine TWINT-App und         
+tippe auf das QR-Code-Symbol.                 
+Scann den QR Code.          
+              
+Gib den Betrag deiner Spende ein       
+und bestätige die Zahlung.            
+Vielen Dank! 
+                  
+<img alt="Twint QR Code als PNG und EPS" src="https://github.com/posmocoop/velobserver/blob/main/twint_velobserver_qrcode.png" width="150"/>
+               
+VelObserver
+                       
+<img alt="Twint Logo" src="https://www.sparkasse.ch/bilder/twint/twint_logo_quer_pos_rgb.png" width="150"/>
+     </td>
+  </tr>
+</table>
+
+
 - GENOSSENSCHAFTER\*INNEN: [Werde Genossenschafter\*in](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md) mit dem Vermerk: **GVOBS** - CHF 100.– bis max. CHF 250.–.         
   Als Genossenschafter\*in kannst Du Dich aktiv ins Projekt einbringen.      
 - SPONSOREN: Spende einen Beitrag mit Vermerk **VOBS SPENDE**. Als Spender\*in wirst Du namentlich auf der Seite aufgeführt.             
