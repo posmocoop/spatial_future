@@ -14,15 +14,17 @@ Velo Observatorium für Zürich und andere Schweizer Städte
 - Crowdsourced
 - Citizen Science
 
-## Nächste Meetings
+
+## Letztes Meeting: 12. Mai, 18:00-19:00 Uhr
+Video. Zoom-Einladung via Slack-Channel #velObserver
+
+## Letzte Meetings
 Fotosession: Mittwoch, 14. April, 7:30-9:30  (Startstrasse via Felix, Yvonne)        
 Nächstes Zoom-Meeting: 22. April, 10:30
 
-## Letztes Meeting: Mittwoch, 7. April, 8-9:45 Uhr
-Zoom-Einladung via Slack-Channel #velObserver
 
 
-## posmo.coop/velobserver & velobserver.ch (upcoming)
+## velobserver.posmo.coop & velobserver.ch (upcoming)
 
 Vorbild:    
 https://planvelo.paris          
