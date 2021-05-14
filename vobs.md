@@ -47,12 +47,9 @@ Siehe: https://planvelo.paris
 - Startbudget velobserver: Design & Implementation für Arbeit von Nicht-Genossenschafter\*innen
 - Arbeit von Genossenschafter\*innen wird nicht in CHF bezahlt, sondern in Ostrom, unserer Genossenschaftswährung
 
-## Projekt 1b, Version 1 
+## Projekt Bike-Index, Version 1 
 Siehe https://fixmyberlin.de/zustand
-- Budget für Public-Seite: Zu definieren
-- Admin-Seite wird in einem ersten Schritt von Datamap übernommen, da wir so schnell sind und durch Posmo One, bereits ein Login/Rollen, Maps, Graphs usw. besteht. 
-  Zu einem späteren Zeitpunkt, mit angemessenen Budget, kann das auch mitsamt Code an Posmo übertragen werden. 
-- To discuss: Klassifizierungsarbeit von Genossenschafter\*innen könnte in Ostrom, unserer Genossenschaftswährung, abgegolten werden. 
+- Budgetiert
 
 ## Projekt 1c, Version 1
 Siehe https://fixmyberlin.de/planungen
