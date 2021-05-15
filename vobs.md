@@ -128,10 +128,10 @@ Am Wasser 59
 Firmenspenden
 
 Angefragt:
-- [Minimum Bouldering](https://minimum.ch), 31. März 2021
 - [Liip](https://www.liip.ch), 27. März 2021
 
 Zugesagt: 
+- [Minimum Bouldering](https://minimum.ch), CHF 500.-, kommt ca. Anfang Juni 2021
 - [Freitag](https://www.freitag.ch) (CHF 500.–)
 
 Eingetroffen:
