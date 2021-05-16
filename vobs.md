@@ -34,15 +34,12 @@ Mit [Neuklassifizierung der Wege und Knoten (siehe unten)](https://github.com/po
 
 
 ### Übersicht; Start mit Subprojekten von 1
-- 1a: Karte wie Paris planvelo - Masterplan, Neuer Masterplan, Grau=Plan, Grün=Umgesetzt Genügend, Rot= Ungenügend Umgesetzt. Klassifizierung mit Illu / Photo
-- 1b: Status Quo aller Strassen - durch die Crowd editiert (Admin Seite - Public Seite), wie fixmyberlin, happy bike level
-- 1c: Planungen
+- Veloplan, 1a: Karte wie Paris planvelo - Masterplan, Neuer Masterplan, Grau=Plan, Grün=Umgesetzt Genügend, Rot= Ungenügend Umgesetzt. Klassifizierung mit Illu / Photo
+- Bike-Index, 1b: Status Quo aller Strassen - durch die Crowd editiert (Admin Seite - Public Seite), wie fixmyberlin, happy bike level
+- Planungen, 1c
 - 2: Velobahnen von der Peripherie durchs Zentrum
 - 3: Noch geheim
                 
-Damit wir 1a) professionell aufsetzen können, brauchen wir eine Minimalfinanzierung.   
-Wir rechnen mit CHF 2'000.– für eine Masterplan-Map mit Klassifizierungslegende. 1a ermöglicht somit 1b, damit man alle Velostrassen in unserer neuen Klassifizierung unter 1b klassifizieren kann.
-
  
 ## Projekt 1a. Veloplan - finanziert, in Umsetzung
 Siehe: https://planvelo.paris  
