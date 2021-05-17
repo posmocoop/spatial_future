@@ -130,7 +130,7 @@ Angefragt:
 Zugesagt: 
 - [Minimum Bouldering](https://minimum.ch), CHF 500.-, kommt ca. Anfang Juni 2021
 - [Freitag](https://www.freitag.ch) (CHF 500.–)
-- [Liip](https://www.liip.ch)
+- [Liip](https://www.liip.ch), CHF 500.–
 
 Eingetroffen:
 - [Urbanista AG](https://urbanista.ch), (CHF 500.–)
