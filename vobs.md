@@ -125,7 +125,7 @@ Am Wasser 59
 Firmenspenden
 
 Angefragt:
-- Urban connect
+- Urban Connect
 
 Zugesagt: 
 - Minimum Bouldering, CHF 500.-, kommt ca. Anfang Juni 2021
