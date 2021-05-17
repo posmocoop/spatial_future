@@ -99,7 +99,7 @@ VelObserver
 
 - GENOSSENSCHAFTER\*INNEN: [Werde Genossenschafter\*in](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md) mit dem Vermerk: **GVOBS** - CHF 100.– bis max. CHF 250.–.         
   Als Genossenschafter\*in kannst Du Dich aktiv ins Projekt einbringen.      
-- SPONSOREN: Spende einen Beitrag mit Vermerk **VOBS SPENDE**. Als Spender\*in wirst Du namentlich auf der Seite aufgeführt.             
+- SPENDE: Spende einen Beitrag mit Vermerk **VOBS SPENDE**. Als Spender\*in wirst Du namentlich auf der Seite aufgeführt.             
   Ab CHF 500.- auch prominenter.             
 
 Einzahlung auf:
@@ -128,15 +128,15 @@ Angefragt:
 - ...
 
 Zugesagt: 
-- [Minimum Bouldering](https://minimum.ch), CHF 500.-, kommt ca. Anfang Juni 2021
-- [Freitag](https://www.freitag.ch) (CHF 500.–)
-- [Liip](https://www.liip.ch), CHF 500.–
+- Minimum Bouldering, CHF 500.-, kommt ca. Anfang Juni 2021
+- Freitag, CHF 500.–
+- Liip, CHF 500.–
 
 Eingetroffen:
-- [Urbanista AG](https://urbanista.ch), (CHF 500.–)
-- [Pro Velo Zürich](https://www.provelozuerich.ch), (CHF 500.–)
-- [Kaywa](https://qrcode.kaywa.com), (CHF 500.–)
-- [Datamap](https://datamap.io), (CHF 500.–)
+- Urbanista AG, (CHF 500.–)
+- Pro Velo Zürich, (CHF 500.–)
+- Kaywa, (CHF 500.–)
+- Datamap, (CHF 500.–)
 
 ### Bisheriges Budget
 GVOBS: CHF 1395.–                  
