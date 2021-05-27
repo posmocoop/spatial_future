@@ -41,7 +41,7 @@ Mit [Neuklassifizierung der Wege und Knoten (siehe unten)](https://github.com/po
 - 3: Noch geheim
                 
  
-## Projekt 1a. Veloplan - finanziert, in Umsetzung
+## Projekt 1a. Veloplan - grössenteils finanziert, in Umsetzung
 Siehe: https://planvelo.paris  
 - Startbudget velobserver: Design & Implementation für Arbeit von Nicht-Genossenschafter\*innen
 - Arbeit von Genossenschafter\*innen wird nicht in CHF bezahlt, sondern in Ostrom, unserer Genossenschaftswährung
