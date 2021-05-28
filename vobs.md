@@ -130,13 +130,14 @@ Angefragt:
 Zugesagt: 
 - Minimum Bouldering, CHF 500.-, kommt ca. Anfang Juni 2021
 - Freitag, CHF 500.–
-- Liip, CHF 500.–
+
 
 Eingetroffen:
-- Urbanista AG, (CHF 500.–)
-- Pro Velo Zürich, (CHF 500.–)
-- Kaywa, (CHF 500.–)
-- Datamap, (CHF 500.–)
+- Liip, CHF 500.–
+- Urbanista AG, CHF 500.–
+- Pro Velo Zürich, CHF 500.–
+- Kaywa, CHF 500.–
+- Datamap, CHF 500.–
 
 ### Bisheriges Budget
 GVOBS: CHF 1395.–                  
