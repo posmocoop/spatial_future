@@ -147,7 +147,7 @@ VelObserver
 **GVOBS: CHF 1395.–**                  
 1550-155 (REVFO\*)    
         
-**Spenden: No Bike, No Business: CHF 3150.– **   
+**Spenden: No Bike, No Business: CHF 3150.–**   
 3500-350 (REVFO)  
 
 **VelObserver (TWINT): 88.80**         
