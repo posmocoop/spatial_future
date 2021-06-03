@@ -76,6 +76,10 @@ Aufschlüsselung des gesamten Verkehrsbudgets (indirekte und direkte Kosten) und
 [Werde Genossenschafter\*in](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md) mit dem Vermerk: **GVOBS** - CHF 100.– bis max. CHF 250.–.         
   Als Genossenschafter\*in kannst Du Dich aktiv ins Projekt einbringen.      
 
+#### Bisherige GVOBS-Genossenschafter\*innen
+- 7 Neu
+- 2, die ihren Beitrag erhöht haben
+
 ### NO BIKE, NO BUSINESS! FIRMEN SPENDEN FUER DEN VELOBSERVER
 Spende einen Beitrag mit Vermerk **No Bike, No Business SPENDE**. Als Spender\*in wirst Du namentlich auf der Seite aufgeführt.             
              
@@ -95,12 +99,9 @@ Genossenschaft Posmo Schweiz
 Am Wasser 59          
 8049 Zürich       
 ```
-### Bisherige GVOBS-Genossenschafter\*innen
-- 7 Neugenoss\*innen
-- 2 Altgenoss\*innen, die ihren Beitrag erhöht haben
 
-### No Bike, No Business! 
-Firmenspenden
+
+#### Firmenspenden
 
 Angefragt:
 - Urban Connect
@@ -143,14 +144,17 @@ VelObserver
   </tr>
 </table>
 
-### Bisheriges Budget
+#### TWINT
+CHF 98.70 
+
+### EINNAHMEN
 **GVOBS: CHF 1395.–**                  
 1550-155 (REVFO\*)    
         
 **Spenden: No Bike, No Business: CHF 3150.–**   
 3500-350 (REVFO)  
 
-**VelObserver (TWINT): 88.80**         
+**VelObserver (TWINT): CHF 88.80**         
 98.70-9.90 (REVFO)           
         
 **TOTAL: CHF 4633.80**                
