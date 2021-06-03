@@ -71,36 +71,14 @@ Aufschlüsselung des gesamten Verkehrsbudgets (indirekte und direkte Kosten) und
 
 
 ## 3 Möglichkeiten das VelObserver-Projekt zu finanzieren
-- Spenden via Twint 
 
-<table border="0">
-  <tr>
-    <td align="center">
-<b>Mit TWINT für den VelObserver spenden!</b>     
-                    
-                                  
-Öffne deine TWINT-App und         
-tippe auf das QR-Code-Symbol.                 
-Scann den QR Code.          
-              
-Gib den Betrag deiner Spende ein       
-und bestätige die Zahlung.            
-Vielen Dank! 
-                  
-<img alt="Twint QR Code als PNG und EPS" src="https://github.com/posmocoop/velobserver/blob/main/twint_velobserver_qrcode.png" width="150"/>
-               
-VelObserver
-                       
-<img alt="Twint Logo" src="https://www.sparkasse.ch/bilder/twint/twint_logo_quer_pos_rgb.png" width="150"/>
-     </td>
-  </tr>
-</table>
-
-
-- GENOSSENSCHAFTER\*INNEN: [Werde Genossenschafter\*in](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md) mit dem Vermerk: **GVOBS** - CHF 100.– bis max. CHF 250.–.         
+### GENOSSENSCHAFTER\*INNEN: 
+[Werde Genossenschafter\*in](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md) mit dem Vermerk: **GVOBS** - CHF 100.– bis max. CHF 250.–.         
   Als Genossenschafter\*in kannst Du Dich aktiv ins Projekt einbringen.      
-- SPENDE: Spende einen Beitrag mit Vermerk **VOBS SPENDE**. Als Spender\*in wirst Du namentlich auf der Seite aufgeführt.             
-  Ab CHF 500.- auch prominenter.             
+
+### FIRMEN SPENDE
+Spende einen Beitrag mit Vermerk **No Bike, No Business SPENDE**. Als Spender\*in wirst Du namentlich auf der Seite aufgeführt.             
+             
 
 Einzahlung auf:
 ```
@@ -147,12 +125,37 @@ Spenden: No Bike, No Business: CHF 3150.–
 3500-350 (REVFO)  
 
 VelObserver (TWINT):
-98.70            
+88.80 
+98.70-9.90 (REVFO)           
         
-TOTAL: CHF 4643.70                
+TOTAL: CHF 4633.80                
               
-\* REVFO: 10% aller Eingänge gehen in den Reservefonds          
+\* REVFO: 10% aller Eingänge gehen in den Reservefonds der Genossenschaft         
 
+- Spenden via Twint 
+
+<table border="0">
+  <tr>
+    <td align="center">
+<b>Mit TWINT für den VelObserver spenden!</b>     
+                    
+                                  
+Öffne deine TWINT-App und         
+tippe auf das QR-Code-Symbol.                 
+Scann den QR Code.          
+              
+Gib den Betrag deiner Spende ein       
+und bestätige die Zahlung.            
+Vielen Dank! 
+                  
+<img alt="Twint QR Code als PNG und EPS" src="https://github.com/posmocoop/velobserver/blob/main/twint_velobserver_qrcode.png" width="150"/>
+               
+VelObserver
+                       
+<img alt="Twint Logo" src="https://www.sparkasse.ch/bilder/twint/twint_logo_quer_pos_rgb.png" width="150"/>
+     </td>
+  </tr>
+</table>
 
 ## Neuklassifizierung Velorouten
 
