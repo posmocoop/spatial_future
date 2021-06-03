@@ -132,7 +132,7 @@ TOTAL: CHF 4633.80
               
 \* REVFO: 10% aller Eingänge gehen in den Reservefonds der Genossenschaft         
 
-- Spenden via Twint 
+### Spenden via Twint 
 
 <table border="0">
   <tr>
