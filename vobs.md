@@ -76,7 +76,7 @@ Aufschlüsselung des gesamten Verkehrsbudgets (indirekte und direkte Kosten) und
 [Werde Genossenschafter\*in](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md) mit dem Vermerk: **GVOBS** - CHF 100.– bis max. CHF 250.–.         
   Als Genossenschafter\*in kannst Du Dich aktiv ins Projekt einbringen.      
 
-### FIRMEN SPENDE
+### NO BIKE, NO BUSINESS! FIRMEN SPENDEN FUER DEN VELOBSERVER
 Spende einen Beitrag mit Vermerk **No Bike, No Business SPENDE**. Als Spender\*in wirst Du namentlich auf der Seite aufgeführt.             
              
 
