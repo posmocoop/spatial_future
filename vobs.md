@@ -81,7 +81,7 @@ Aufschlüsselung des gesamten Verkehrsbudgets (indirekte und direkte Kosten) und
 - 2, die ihren Beitrag erhöht haben
 
 ### NO BIKE, NO BUSINESS! FIRMEN SPENDEN FUER DEN VELOBSERVER
-Spende einen Beitrag mit Vermerk **No Bike, No Business SPENDE**. Als Spender\*in wirst Du namentlich auf der Seite aufgeführt.             
+Spende einen Beitrag mit dem Vermerk **No Bike, No Business SPENDE**. Als Spender\*in wird deine Firma namentlich auf der Seite aufgeführt.             
              
 
 Einzahlung auf:
