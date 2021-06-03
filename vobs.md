@@ -118,7 +118,7 @@ Eingetroffen:
 - Datamap, CHF 500.–
 
 
-### Spenden via Twint 
+### SPENDEN VIA TWINT
 
 <table border="0">
   <tr>
