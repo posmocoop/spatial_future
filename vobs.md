@@ -117,20 +117,6 @@ Eingetroffen:
 - Kaywa, CHF 500.–
 - Datamap, CHF 500.–
 
-### Bisheriges Budget
-GVOBS: CHF 1395.–                  
-1550-155 (REVFO\*)    
-        
-Spenden: No Bike, No Business: CHF 3150.–    
-3500-350 (REVFO)  
-
-VelObserver (TWINT):
-88.80 
-98.70-9.90 (REVFO)           
-        
-TOTAL: CHF 4633.80                
-              
-\* REVFO: 10% aller Eingänge gehen in den Reservefonds der Genossenschaft         
 
 ### Spenden via Twint 
 
@@ -156,6 +142,20 @@ VelObserver
      </td>
   </tr>
 </table>
+
+### Bisheriges Budget
+**GVOBS: CHF 1395.–**                  
+1550-155 (REVFO\*)    
+        
+**Spenden: No Bike, No Business: CHF 3150.– **   
+3500-350 (REVFO)  
+
+**VelObserver (TWINT): 88.80**         
+98.70-9.90 (REVFO)           
+        
+**TOTAL: CHF 4633.80**                
+              
+\* REVFO: 10% aller Eingänge gehen in den Reservefonds der Genossenschaft    
 
 ## Neuklassifizierung Velorouten
 
