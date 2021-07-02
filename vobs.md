@@ -108,11 +108,11 @@ Angefragt:
 - Urban Connect
 
 Zugesagt: 
-- Minimum Bouldering, CHF 500.-, kommt ca. Anfang Juni 2021
 - Freitag, CHF 500.–
 
 
 Eingetroffen:
+- Minimum Bouldering, CHF 500.-
 - Liip, CHF 500.–
 - Urbanista AG, CHF 500.–
 - Pro Velo Zürich, CHF 500.–
