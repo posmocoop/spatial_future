@@ -1,5 +1,5 @@
 # VelObserver
-Velo Observatorium für Zürich und andere Schweizer Städte
+[Velo Observatorium für Zürich und andere Schweizer Städte](https://www.velobserver.ch)
 
 <img src="https://github.com/posmocoop/spatial_future/blob/master/logo%20dunkel@6x.png?raw=true" width="500" />
 
