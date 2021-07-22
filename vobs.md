@@ -108,10 +108,11 @@ Angefragt:
 - Urban Connect
 
 Zugesagt: 
-- Freitag, CHF 500.–
+- Pro Velo Zürich, CHF 3000.-
 
 
 Eingetroffen:
+- Freitag, CHF 500.–
 - Minimum Bouldering, CHF 500.-
 - Liip, CHF 500.–
 - Urbanista AG, CHF 500.–
@@ -146,19 +147,19 @@ VelObserver
 </table>
 
 #### TWINT
-CHF 98.70 
+CHF 123.40
 
 ### EINNAHMEN
-**GVOBS: CHF 1395.–**                  
-1550-155 (REVFO\*)    
+**GVOBS: CHF 1575.–**                  
+1750-175 (REVFO\*)    
         
 **Spenden: No Bike, No Business: CHF 3150.–**   
 3500-350 (REVFO)  
 
-**VelObserver (TWINT): CHF 88.80**         
-98.70-9.90 (REVFO)           
+**VelObserver (TWINT): CHF 111.05**         
+123.40-12.35 (REVFO)           
         
-**TOTAL: CHF 4633.80**                
+**TOTAL: CHF 4836.05**                
               
 \* REVFO: 10% aller Eingänge gehen in den Reservefonds der Genossenschaft    
 
