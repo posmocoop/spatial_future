@@ -49,6 +49,7 @@ Live end of July
 ### v.03
 - Grey = planned, but not existing, see https://github.com/posmocoop/veloplan/blob/main/README.md#edge-classification-5-values
 - Zurich City border
+- Set up of Strapi and Sendgrid
 - Blog with Design
 - Newsletter with Design
 - Static Page with Design
