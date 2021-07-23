@@ -53,6 +53,7 @@ Live end of July
 - Blog with Design
 - Newsletter with Design
 - Static Page with Design
+- Cap/T-Shirt: VelObserver ? 
 
 
 Example: https://fixmyberlin.de/zustand
