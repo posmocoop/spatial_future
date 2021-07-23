@@ -15,15 +15,6 @@
 - Citizen Science
 
 
-## Letztes Meeting: 12. Mai, 18:00-19:00 Uhr
-Video. Zoom-Einladung via Slack-Channel #velObserver
-
-## Letzte Meetings
-Fotosession: Mittwoch, 14. April, 7:30-9:30  (Startstrasse via Felix, Yvonne)        
-Nächstes Zoom-Meeting: 22. April, 10:30
-
-
-
 ## velobserver.posmo.coop & velobserver.ch (upcoming)
 
 Vorbild:    
@@ -46,9 +37,23 @@ Siehe: https://planvelo.paris
 - Startbudget velobserver: Design & Implementation für Arbeit von Nicht-Genossenschafter\*innen
 - Arbeit von Genossenschafter\*innen wird nicht in CHF bezahlt, sondern in Ostrom, unserer Genossenschaftswährung
 
+### v.01 velobserver.ch
+
+### v.02, Vorzugsrouten-Karte durch Fachteam bewertet (Live end of July)
+
+
+
 ## Projekt 1b. Bike-Index, Version 1 
 Siehe https://fixmyberlin.de/zustand
-- Budgetiert
+
+### v.03
+- Grey = planned, but not existing, see https://github.com/posmocoop/veloplan/blob/main/README.md#edge-classification-5-values
+- Zurich City border
+- Blog with Design
+- Newsletter with Design
+- Static Page with Design
+
+
 
 ## Projekt 1c. Planungen, Version 1
 Siehe https://fixmyberlin.de/planungen
