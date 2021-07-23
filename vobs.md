@@ -38,13 +38,13 @@ Siehe: https://planvelo.paris
 - Arbeit von Genossenschafter\*innen wird nicht in CHF bezahlt, sondern in Ostrom, unserer Genossenschaftswährung
 
 ### v.01 velobserver.ch
+Live
 
-### v.02, Vorzugsrouten-Karte durch Fachteam bewertet (Live end of July)
+### v.02, Vorzugsrouten-Karte durch Fachteam bewertet
+Live end of July
 
 
-
-## Projekt 1b. Bike-Index, Version 1 
-Siehe https://fixmyberlin.de/zustand
+## Projekt 1b. Bike-Index
 
 ### v.03
 - Grey = planned, but not existing, see https://github.com/posmocoop/veloplan/blob/main/README.md#edge-classification-5-values
@@ -53,6 +53,8 @@ Siehe https://fixmyberlin.de/zustand
 - Newsletter with Design
 - Static Page with Design
 
+
+Example: https://fixmyberlin.de/zustand
 
 
 ## Projekt 1c. Planungen, Version 1
