@@ -47,6 +47,7 @@ Live end of July
 ## Projekt 1b. Bike-Index
 
 ### v.03
+- Map can be exported as svg, eps, png (1 image format and vector format)
 - Grey = planned, but not existing, see https://github.com/posmocoop/veloplan/blob/main/README.md#edge-classification-5-values
 - Zurich City border
 - Set up of Strapi and Sendgrid
