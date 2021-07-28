@@ -115,6 +115,9 @@ Am Wasser 59
 
 #### Firmenspenden
 
+Neu:
+- Bond
+
 Angefragt:
 - Urban Connect
 
