@@ -62,6 +62,14 @@ To Discuss:
 Nice to Have:
 - Cap/T-Shirt: VelObserver
 
+### v.04
+- VelObserver Android-App UI & UX (already started)
+- OSM vs. current Network comparison
+- Scoring 
+- Weigthing of crowd inputs (e.g. with tracking highest weight)
+- Nodes, Rating Gesamtstrecken.
+
+
 Example: https://fixmyberlin.de/zustand
 
 
