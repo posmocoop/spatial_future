@@ -47,16 +47,20 @@ Live end of July
 ## Projekt 1b. Bike-Index
 
 ### v.03
-- Map can be embedded on other sites
-- Map can be exported as svg, eps, png (1 image format and vector format)
-- Grey = planned, but not existing, see https://github.com/posmocoop/veloplan/blob/main/README.md#edge-classification-5-values
-- Zurich City border
+Prio:
 - Set up of Strapi and Sendgrid
 - Blog with Design
 - Newsletter with Design
 - Static Page with Design
-- Cap/T-Shirt: VelObserver ? 
 
+To Discuss:
+- Map can be embedded on other sites
+- Map can be exported as svg, eps, png (1 image format and vector format)
+- Grey = planned, but not existing, see https://github.com/posmocoop/veloplan/blob/main/README.md#edge-classification-5-values
+- Zurich City border
+
+Nice to Have:
+- Cap/T-Shirt: VelObserver
 
 Example: https://fixmyberlin.de/zustand
 
