@@ -54,6 +54,7 @@ Prio:
 - Static Page with Design
 
 To Discuss:
+- Street names should be visible (color transparency?)
 - Map can be embedded on other sites
 - Map can be exported as svg, eps, png (1 image format and vector format)
 - Grey = planned, but not existing, see https://github.com/posmocoop/veloplan/blob/main/README.md#edge-classification-5-values
@@ -64,6 +65,7 @@ Nice to Have:
 
 ### v.04
 - VelObserver Android-App UI & UX (already started)
+  - 3 Sliders / One color square 
 - OSM vs. current Network comparison
 - Scoring 
 - Weigthing of crowd inputs (e.g. with tracking highest weight)
