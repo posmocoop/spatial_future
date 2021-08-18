@@ -53,7 +53,7 @@ Prio:
 - Newsletter with Design
 - Static Page with Design
 
-To Discuss:
+To Discuss 0.2.1:
 - Street names should be visible (color transparency?)
 - Map can be embedded on other sites
 - Map can be exported as svg, eps, png (1 image format and vector format)
@@ -67,6 +67,7 @@ Nice to Have:
 - VelObserver Android-App UI & UX (already started)
   - 3 Sliders / One color square 
 - OSM vs. current Network comparison
+- Weitere Daten (Alter, Geschlecht, Typ Bike)
 - Scoring 
 - Weigthing of crowd inputs (e.g. with tracking highest weight)
 - Nodes, Rating Gesamtstrecken.
