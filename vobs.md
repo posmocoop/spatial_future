@@ -103,7 +103,7 @@ Aufschlüsselung des gesamten Verkehrsbudgets (indirekte und direkte Kosten) und
   Als Genossenschafter\*in kannst Du Dich aktiv ins Projekt einbringen.      
 
 #### Bisherige GVOBS-Genossenschafter\*innen
-- 7 Neu
+- 9 Neu
 - 2, die ihren Beitrag erhöht haben
 
 ### NO BIKE, NO BUSINESS! 
