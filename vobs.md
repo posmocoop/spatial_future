@@ -131,7 +131,7 @@ Am Wasser 59
 #### Firmenspenden
 
 Neu:
-- Bond
+- Bond, Veloplus
 
 Angefragt:
 - Urban Connect
@@ -182,10 +182,10 @@ CHF 123.40
 **Spenden: No Bike, No Business: CHF 5850.–**   
 6500-650 (REVFO)  
 
-**VelObserver (TWINT): CHF 111.05**         
-123.40-12.35 (REVFO)           
+**VelObserver (TWINT): CHF 306.45**         
+340.49-34.04 (REVFO)           
         
-**TOTAL: CHF 7806.05**                
+**TOTAL: CHF 8001.45**                
               
 \* REVFO: 10% aller Eingänge gehen in den Reservefonds der Genossenschaft    
 
