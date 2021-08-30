@@ -50,19 +50,17 @@ Live end of July
 Prio:
 - Set up of Strapi and Sendgrid
 - Blog with Design
-- Names of streets are on top of our route graph/network (decision from Friday meeting)
-
+- Names of streets are on top of our route graph/network (ok decision from Friday meeting)
 - Newsletter with Design
 - Static Page with Design
-- Map and legend can be embedded on other sites 
-- Map can be exported as svg and png (1 image format and 1 vector format)
-
+- Map and legend can be embedded on other sites (ok decision from Friday meeting) 
+- Map can be exported as svg and png (1 image format and 1 vector format) (ok decision from Friday meeting)
 
 
 To Discuss 0.2.1:
-- Street names should be visible (color transparency?)
-- Map can be embedded on other sites
-- Map can be exported as svg, eps, png (1 image format and vector format)
+- <strike>Street names should be visible (color transparency?)</strike>
+- <strike>Map can be embedded on other sites</strike>
+- <strike>Map can be exported as svg, eps, png (1 image format and vector format)</strike>
 - Grey = planned, but not existing, see https://github.com/posmocoop/veloplan/blob/main/README.md#edge-classification-5-values
 - Zurich City border
 
