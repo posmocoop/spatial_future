@@ -50,8 +50,14 @@ Live end of July
 Prio:
 - Set up of Strapi and Sendgrid
 - Blog with Design
+- Names of streets are on top of our route graph/network (decision from Friday meeting)
+
 - Newsletter with Design
 - Static Page with Design
+- Map and legend can be embedded on other sites 
+- Map can be exported as svg and png (1 image format and 1 vector format)
+
+
 
 To Discuss 0.2.1:
 - Street names should be visible (color transparency?)
