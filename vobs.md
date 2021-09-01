@@ -55,6 +55,7 @@ Prio:
 - Static Page with Design
 - Map and legend can be embedded on other sites (ok decision from Friday meeting) 
 - Map can be exported as svg and png (1 image format and 1 vector format) (ok decision from Friday meeting)
+- Redirect posmo.ch auf posmo.coop
 
 
 To Discuss 0.2.1:
