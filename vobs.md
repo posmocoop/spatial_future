@@ -48,9 +48,9 @@ Live end of July
 
 ### v.03
 Prio:
-- Set up of Strapi and Sendgrid
-- Blog with Design
-- Names of streets are on top of our route graph/network (ok decision from Friday meeting)
+- Set up of Strapi and Sendgrid [x]
+- Blog with Design [x]
+- Names of streets are on top of our route graph/network (ok decision from Friday meeting) [x]
 - Newsletter with Design
 - Static Page with Design
 - Map and legend can be embedded on other sites (ok decision from Friday meeting) 
