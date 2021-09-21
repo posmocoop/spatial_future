@@ -56,6 +56,7 @@ Prio:
 - Map and legend can be embedded on other sites (ok decision from Friday meeting) 
 - Map can be exported as svg and png (1 image format and 1 vector format) (ok decision from Friday meeting)
 - Redirect posmo.ch auf posmo.coop
+- [x] Zurich City border
 
 
 To Discuss 0.2.1:
@@ -63,7 +64,7 @@ To Discuss 0.2.1:
 - <strike>Map can be embedded on other sites</strike>
 - <strike>Map can be exported as svg, eps, png (1 image format and vector format)</strike>
 - Grey = planned, but not existing, see https://github.com/posmocoop/veloplan/blob/main/README.md#edge-classification-5-values
-- Zurich City border
+
 
 Nice to Have:
 - Cap/T-Shirt: VelObserver
