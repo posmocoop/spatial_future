@@ -75,16 +75,15 @@ To discuss 0.2.1:
 - <strike>Map can be exported as svg, eps, png (1 image format and vector format)</strike>
 - Grey = planned, but not existing, see https://github.com/posmocoop/veloplan/blob/main/README.md#edge-classification-5-values
 
-To discuss 0.3.1:
-Layout der Übersichtsseite
+To discuss 0.3.1:          
+Layout der Übersichtsseite             
 Später:
 - Erster Beitrag gross (ich finde Matthias Zehnders Layout [Layout, nicht Design] nicht schlecht, so als Orientierung).
 - Layer (wie sagt man den Dingern? Flyover? wtf, ich weiss es nicht) mit Newsletter-Anmeldung über den Anrissen.
 - «Themen» braucht es mmn (mindestens im Moment) nicht.
 - Search
-- Unterschiedliche Formatierungen für unterschiedliche Textsorten, bzw. Serien.
-
-Layout Beitrag
+- Unterschiedliche Formatierungen für unterschiedliche Textsorten, bzw. Serien.       
+Layout Beitrag            
 - Newsletter abonnieren am Ende des Beitrags.
 - Topelement, Aufmacher-Bild oder wie auch immer man dazu sagen will.
 - Formatfüllende Bilder.
