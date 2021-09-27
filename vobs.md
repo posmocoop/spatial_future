@@ -66,23 +66,24 @@ Prio:
 - Make Chragis Blog changes
 - Embed iFrames
 - Impressum, move it back to alignment
-- How to customize blog posts, see with Thomas and Felix
+- Self-Customizing: How to customize blog posts, see with Thomas and Felix 
 
 
-To discuss 0.2.1:
+### To discuss 0.2.1:
 - <strike>Street names should be visible (color transparency?)</strike>
 - <strike>Map can be embedded on other sites</strike>
 - <strike>Map can be exported as svg, eps, png (1 image format and vector format)</strike>
 - Grey = planned, but not existing, see https://github.com/posmocoop/veloplan/blob/main/README.md#edge-classification-5-values
 
-To discuss 0.3.1:          
+### To discuss 0.3.1:          
+
 Layout der Übersichtsseite             
-Später:
 - Erster Beitrag gross (ich finde Matthias Zehnders Layout [Layout, nicht Design] nicht schlecht, so als Orientierung).
 - Layer (wie sagt man den Dingern? Flyover? wtf, ich weiss es nicht) mit Newsletter-Anmeldung über den Anrissen.
 - «Themen» braucht es mmn (mindestens im Moment) nicht.
 - Search
-- Unterschiedliche Formatierungen für unterschiedliche Textsorten, bzw. Serien.       
+- Unterschiedliche Formatierungen für unterschiedliche Textsorten, bzw. Serien.   
+               
 Layout Beitrag            
 - Newsletter abonnieren am Ende des Beitrags.
 - Topelement, Aufmacher-Bild oder wie auch immer man dazu sagen will.
@@ -93,6 +94,8 @@ Layout Beitrag
 - Share-Button...
 - Reading-Time
 - URL velobserver.ch/blog/titel-des-beitrags wäre auch nett.
+
+
 
 
 
