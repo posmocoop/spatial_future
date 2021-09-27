@@ -51,6 +51,7 @@ Prio:
 - [x] Set up of Strapi and Sendgrid
 - [x] Blog with Design
 - [x] Names of streets are on top of our route graph/network (ok decision from Friday meeting)
+- Blog Posts werden auf HOME angeteasert (Designvorschlag Chragi)
 - Newsletter with Design
 - Static Page with Design
 - Map and legend can be embedded on other sites (ok decision from Friday meeting) 
