@@ -59,6 +59,15 @@ Prio:
 - Redirect posmo.ch auf posmo.coop
 - [x] Zurich City border
 
+### v.03.01 (Changes after going live on Sept. 27)
+- Blog posts reversed
+- Link colors as on HOME
+- List should be moved right
+- Make Chragis Blog changes
+- Embed iFrames
+- Impressum, move it back to alignment
+- How to customize blog posts, see with Thomas and Felix
+
 
 To Discuss 0.2.1:
 - <strike>Street names should be visible (color transparency?)</strike>
