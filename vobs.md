@@ -60,10 +60,10 @@ Prio:
 - [x] Zurich City border
 
 ### v.3.1 (Changes after going live on Sept. 27)
-- Blog posts reversed
-- Link colors as on HOME
-- List should be moved right
-- Make Chragis Blog changes
+- [x] Blog posts reversed
+- [x] Link colors as on HOME
+- [x] List should be moved right
+- [x] Make Chragis Blog changes
 - Embed iFrames
 - Impressum, move it back to alignment
 - Self-Customizing: How to customize blog posts, see with Thomas and Felix 
