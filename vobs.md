@@ -64,11 +64,11 @@ Prio:
 - [x] Link colors as on HOME
 - [x] List should be moved right
 - [x] Make Chragis Blog changes
-- When the screen is bigger, there are 2 squares instead of 3
-- [x]Increase the height of the map to 130%. 
-- Embed iFrames
+- [x] When the screen is bigger, there are 2 squares instead of 3
+- [x] Increase the height of the map to 130%. 
+- [x] Embed iFrames. Should be possible now.
 - [x] Impressum, move it back to alignment
-- Check Impressum on Blog. Next: We try a centered Footer approach. 
+- [x] Check Impressum on Blog. Next: We try a <strike>centered</strike> left align Footer approach. 
 - Self-Customizing: How to customize blog posts, see with Thomas and Felix 
 
 
