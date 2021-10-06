@@ -65,7 +65,7 @@ Prio:
 - [x] List should be moved right
 - [x] Make Chragis Blog changes
 - When the screen is bigger, there are 2 squares instead of 3
-- Increase the height of the map to 150%. 
+- [x]Increase the height of the map to 130%. 
 - Embed iFrames
 - [x] Impressum, move it back to alignment
 - Check Impressum on Blog. Next: We try a centered Footer approach. 
