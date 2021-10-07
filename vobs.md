@@ -99,17 +99,16 @@ Layout Beitrag
 - URL velobserver.ch/blog/titel-des-beitrags wäre auch nett.
 
 
-
-
-
 Nice to Have:
 - Cap/T-Shirt: VelObserver
 
 ### v.04
+- **Pretest Panel (in implementation phase)**
+- OSM Map
 - VelObserver Android-App UI & UX (already started)
-  - 3 Sliders / One color square 
+  - 3 Sliders / One color square ? Slider colors?
 - OSM vs. current Network comparison
-- Weitere Daten (Alter, Geschlecht, Typ Bike)
+- <strike>Weitere Daten (Alter, Geschlecht, Typ Bike)</strike>, see Pretest Panel
 - Scoring 
 - Weigthing of crowd inputs (e.g. with tracking highest weight)
 - Nodes, Rating Gesamtstrecken.
