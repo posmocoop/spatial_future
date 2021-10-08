@@ -43,23 +43,21 @@ Live
 ### v.02, Vorzugsrouten-Karte durch Fachteam bewertet
 Live end of July
 
+### 0.2.1:
+- <strike>Map can be embedded on other sites</strike>
+- <strike>Map can be exported as svg, eps, png (1 image format and vector format)</strike>
 
-## Projekt 1b. Bike-Index
 
-### v.03
+## Projekt 1b. VelObserver-Index
+
+### v.0.3
 Prio:
 - [x] Set up of Strapi and Sendgrid
 - [x] Blog with Design
-- [x] Names of streets are on top of our route graph/network (ok decision from Friday meeting)
-- Blog Posts werden auf HOME angeteasert (Designvorschlag Chragi)
-- Newsletter with Design
-- Static Page with Design
-- Map and legend can be embedded on other sites (ok decision from Friday meeting) 
-- Map can be exported as svg and png (1 image format and 1 vector format) (ok decision from Friday meeting)
-- Redirect posmo.ch auf posmo.coop
+- [x] Names of streets are on top of our route graph/network 
 - [x] Zurich City border
 
-### v.3.1 (Changes after going live on Sept. 27)
+### v.0.3.1 (Changes after going live on Sept. 27)
 - [x] Blog posts reversed
 - [x] Link colors as on HOME
 - [x] List should be moved right
@@ -71,14 +69,42 @@ Prio:
 - [x] Check Impressum on Blog. Next: We try a <strike>centered</strike> left align Footer approach. 
 - Self-Customizing: How to customize blog posts, see with Thomas and Felix 
 
+### v.0.3.2 in parallel with v.0.4
 
-### To discuss 0.2.1:
-- <strike>Street names should be visible (color transparency?)</strike>
-- <strike>Map can be embedded on other sites</strike>
-- <strike>Map can be exported as svg, eps, png (1 image format and vector format)</strike>
-- Grey = planned, but not existing, see https://github.com/posmocoop/veloplan/blob/main/README.md#edge-classification-5-values
+Website / Blog related
+- Emails are going also to Sendgrid Newsletter DB (Nikola, Djordje)
+- Map and legend can be embedded on other sites, with logo and copyright
+- Map can be exported (as png and/or svg), contains legend and copyright, logo
+- Newsletter with Design (Chragi)
+- Static Page with Design (Chragi)
+- Blog Posts werden auf HOME angeteasert (Designvorschlag Chragi)
+- Redirect posmo.ch auf posmo.coop
+- URL velobserver.ch/blog/titel-des-beitrags wäre auch nett.
 
-### To discuss 0.3.1:          
+
+### v.0.4 in parallel with v.0.3.2
+Classification Map Related
+- **Pretest Panel (in implementation phase)**
+- Design Slider for Map
+- Design Map 
+- 
+
+### v. FUTURE
+- FUTURE: VelObserver Android-App UI & UX (already started)
+
+### Next Up for v.0.4
+- OSM Map
+- <strike>3 Sliders / One color square ? Slider colors?</strike>
+- OSM vs. current Network comparison
+- <strike>Weitere Daten (Alter, Geschlecht, Typ Bike)</strike>, see Pretest Panel
+- Scoring 
+- Weigthing of crowd inputs (e.g. with tracking highest weight)
+- Nodes, Rating Gesamtstrecken.
+
+
+### To discuss for 0.3.3:    
+
+- Grey = planned, but not existing, see https://github.com/posmocoop/veloplan/blob/main/README.md#edge-classification-5-values      
 
 Layout der Übersichtsseite             
 - Erster Beitrag gross (ich finde Matthias Zehnders Layout [Layout, nicht Design] nicht schlecht, so als Orientierung).
@@ -96,22 +122,10 @@ Layout Beitrag
 - Quotes (siehe unten).
 - Share-Button...
 - Reading-Time
-- URL velobserver.ch/blog/titel-des-beitrags wäre auch nett.
-
 
 Nice to Have:
 - Cap/T-Shirt: VelObserver
 
-### v.04
-- **Pretest Panel (in implementation phase)**
-- OSM Map
-- VelObserver Android-App UI & UX (already started)
-  - 3 Sliders / One color square ? Slider colors?
-- OSM vs. current Network comparison
-- <strike>Weitere Daten (Alter, Geschlecht, Typ Bike)</strike>, see Pretest Panel
-- Scoring 
-- Weigthing of crowd inputs (e.g. with tracking highest weight)
-- Nodes, Rating Gesamtstrecken.
 
 
 Example: https://fixmyberlin.de/zustand
