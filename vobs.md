@@ -84,7 +84,7 @@ Website / Blog related
 
 ### v.0.4 in parallel with v.0.3.2
 Classification Map Related
-- **Pretest Panel (in implementation phase)**
+- **Pretest Panel (in implementation phase)** on index.velobserver.ch
 - Design Slider for Map
 - Design Map (Mobile/Desktop)
 - Design Pretest Panel Results
