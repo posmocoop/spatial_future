@@ -86,8 +86,9 @@ Website / Blog related
 Classification Map Related
 - **Pretest Panel (in implementation phase)**
 - Design Slider for Map
-- Design Map 
-- 
+- Design Map (Mobile/Desktop)
+- Design Pretest Panel Results
+- Design Photo Tutorial
 
 ### v. FUTURE
 - FUTURE: VelObserver Android-App UI & UX (already started)
