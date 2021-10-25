@@ -67,28 +67,29 @@ Prio:
 - [x] Embed iFrames. Should be possible now.
 - [x] Impressum, move it back to alignment
 - [x] Check Impressum on Blog. Next: We try a <strike>centered</strike> left align Footer approach. 
+- [x] Map and legend can be embedded on other sites, with legend and "Powered by VelObserver"
+- [x] Map can be exported (as png and/or svg), with legend
+- [x] URL velobserver.ch/blog/titel-des-beitrags wäre auch nett.
+
 - Self-Customizing: How to customize blog posts, see with Thomas and Felix 
 
 ### v.0.3.2 in parallel with v.0.4
 
 Website / Blog related
-- Emails are going also to Sendgrid Newsletter DB (Nikola, Djordje)
-- Map and legend can be embedded on other sites, with logo and copyright
-- Map can be exported (as png and/or svg), contains legend and copyright, logo
 - Newsletter with Design (Chragi)
 - Static Page with Design (Chragi)
+- Emails are going also to Sendgrid Newsletter DB (Nikola, Djordje)
 - Blog Posts werden auf HOME angeteasert (Designvorschlag Chragi)
 - Redirect posmo.ch auf posmo.coop
-- URL velobserver.ch/blog/titel-des-beitrags wäre auch nett.
 
 
 ### v.0.4 in parallel with v.0.3.2
 Classification Map Related
-- **Pretest Panel (in implementation phase)** on index.velobserver.ch
-- Design Slider for Map
+- [x] Pretest Panel Survey on index.velobserver.ch
+- Design Slider for Map / Design: Done, Now: Implementation
 - Design Map (Mobile/Desktop)
 - Design Pretest Panel Results
-- Design Photo Tutorial
+- Design Photo Tutorial - between survey and map classification
 
 ### v. FUTURE
 - FUTURE: VelObserver Android-App UI & UX (already started)
