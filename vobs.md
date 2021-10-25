@@ -73,7 +73,11 @@ Prio:
 
 - Self-Customizing: How to customize blog posts, see with Thomas and Felix 
 
-### v.0.3.2 in parallel with v.0.4
+### v.0.4 in parallel with v.0.3.2 (live before Oct. 25)
+- [x] Pretest Panel Survey on index.velobserver.ch
+
+
+### v.0.3.2 in parallel with v.0.4 (after Oct. 25)
 
 Website / Blog related
 - Newsletter with Design (Chragi)
@@ -83,9 +87,8 @@ Website / Blog related
 - Redirect posmo.ch auf posmo.coop
 
 
-### v.0.4 in parallel with v.0.3.2
+### v.0.4.1 in parallel with v.0.3.2 (after Oct. 25)
 Classification Map Related
-- [x] Pretest Panel Survey on index.velobserver.ch
 - Design Slider for Map / Design: Done, Now: Implementation
 - Design Map (Mobile/Desktop)
 - Design Pretest Panel Results
