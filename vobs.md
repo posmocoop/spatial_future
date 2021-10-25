@@ -57,6 +57,8 @@ Prio:
 - [x] Names of streets are on top of our route graph/network 
 - [x] Zurich City border
 
+## After Sept. 27
+
 ### v.0.3.1 (Changes after going live on Sept. 27)
 - [x] Blog posts reversed
 - [x] Link colors as on HOME
@@ -69,15 +71,16 @@ Prio:
 - [x] Check Impressum on Blog. Next: We try a <strike>centered</strike> left align Footer approach. 
 - [x] Map and legend can be embedded on other sites, with legend and "Powered by VelObserver"
 - [x] Map can be exported (as png and/or svg), with legend
-- [x] URL velobserver.ch/blog/titel-des-beitrags wäre auch nett.
+- [x] Nicer URLs like velobserver.ch/blog/titel-des-beitrags 
 
-- Self-Customizing: How to customize blog posts, see with Thomas and Felix 
 
 ### v.0.4 in parallel with v.0.3.2 (live before Oct. 25)
 - [x] Pretest Panel Survey on index.velobserver.ch
 
 
-### v.0.3.2 in parallel with v.0.4 (after Oct. 25)
+## After October 25, 2021
+
+### v.0.3.2 in parallel with v.0.4.1 (after Oct. 25)
 
 Website / Blog related
 - Newsletter with Design (Chragi)
@@ -85,7 +88,6 @@ Website / Blog related
 - Emails are going also to Sendgrid Newsletter DB (Nikola, Djordje)
 - Blog Posts werden auf HOME angeteasert (Designvorschlag Chragi)
 - Redirect posmo.ch auf posmo.coop
-
 
 ### v.0.4.1 in parallel with v.0.3.2 (after Oct. 25)
 Classification Map Related
