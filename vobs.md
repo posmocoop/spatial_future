@@ -83,6 +83,8 @@ Prio:
 ### v.0.3.2 in parallel with v.0.4.1 (after Oct. 25)
 
 Website / Blog related
+- Teaserbilder, 2-3 Teaser-Grafiken haben, die man/frau auf SoMe verwenden kann, evt. mit etwas Text ergänzt.
+  siehe z.B. https://mitwirken.stadt-zuerich.ch/processes/stadtidee (Chragi)
 - Newsletter with Design (Chragi)
 - Static Page with Design (Chragi)
 - Emails are going also to Sendgrid Newsletter DB (Nikola, Djordje)
@@ -90,9 +92,11 @@ Website / Blog related
 - Redirect posmo.ch auf posmo.coop
 
 ### v.0.4.1 in parallel with v.0.3.2 (after Oct. 25)
-Classification Map Related
+Classification, Map Related
+- OSM, Stadt, Veloroutennetz
 - Design Slider for Map / Design: Done, Now: Implementation
-- Design Map (Mobile/Desktop)
+- Design Map Mobile
+- Design Map Desktop
 - Design Pretest Panel Results
 - Design Photo Tutorial - between survey and map classification
 
