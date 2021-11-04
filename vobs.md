@@ -94,8 +94,10 @@ Website / Blog related
 ### v.0.4.1 in parallel with v.0.3.2 (after Oct. 25)
 Classification, Map Related
 - [x] OSM, (Stadt), Veloroutennetz
+- [x] Vorzugsroutennetz auf OSM abgebildet
 - [x] Design Slider for Map / Design: Done, Now: Implementation
 - [x] Design Map Mobile
+- Layers (Vorzugsrouten, Hauptnetz, Basisnetz; Kombiniert, Sicherheit, Konfliktfreiheit, Attraktivität; Ich vs. Alle; Unfällherde, Radwege, Radstreifen etc., Velohändler)
 - Design Map Desktop
 - Design Pretest Panel Results
 - Design Photo Tutorial - between survey and map classification
