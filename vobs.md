@@ -106,6 +106,8 @@ Classification, Map Related
 - FUTURE: VelObserver Android-App UI & UX (already started)
 
 ### Next Up for v.0.4
+- Wichtigste Veloroute bestimmen bzw. Velorouten nach Priorität bewerten
+- Wichtigste Verkehrsknoten bestimmen
 - Feature Request für V n+1: Ein Layer mit der Anzahl Velo-Unfällen, die sich auf einem bestimmten Abschnitt ereignet haben
 - OSM vs. current Network comparison
 - Weitere Daten für den Survey
