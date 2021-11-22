@@ -85,7 +85,7 @@ Prio:
 Website / Blog related
 - [x] Teaserbilder, 2-3 Teaser-Grafiken haben, die man/frau auf SoMe verwenden kann, evt. mit etwas Text ergänzt.
   siehe z.B. https://mitwirken.stadt-zuerich.ch/processes/stadtidee (Chragi)
-- Newsletter with Design (Chragi)
+- [x] Newsletter with Design (Chragi)
 - Blog Posts werden auf HOME angeteasert (Designvorschlag Chragi)
 - Static Page with Design (Chragi)
 - [x] Emails are going also to Sendgrid Newsletter DB (Nikola, Djordje)
