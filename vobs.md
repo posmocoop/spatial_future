@@ -87,7 +87,7 @@ Website / Blog related
   siehe z.B. https://mitwirken.stadt-zuerich.ch/processes/stadtidee (Chragi)
 - [x] Newsletter with Design (Chragi)
 - [x] Emails are going also to Sendgrid Newsletter DB (Nikola, Djordje)
-- UPCOMING: Blog Posts werden auf HOME angeteasert (Designvorschlag Chragi)
+- UPCOMING: Blog Posts werden auf HOME angeteasert (Designvorschlag Chragi), Design is here
 - Redirect posmo.ch auf posmo.coop
 - Static Page with Design (Chragi)
 
@@ -100,7 +100,12 @@ Classification, Map Related
 - Layers (Vorzugsrouten, Hauptnetz, Basisnetz; Kombiniert, Sicherheit, Konfliktfreiheit, Attraktivität; Ich vs. Alle; Unfällherde, Radwege, Radstreifen etc., Velohändler)
 - Design Map Desktop
 - Design Pretest Panel Results
-- Design Photo Tutorial - between survey and map classification
+- [x] Design Photo Tutorial - between survey and map classification
+
+### v.0.5.1 (after user testing from Nov. 9)
+- New Design with simpler rating and photos
+- Redoing the routes
+- Jetzt Bewerten Button on HOME
 
 ### v. FUTURE
 - FUTURE: VelObserver Android-App UI & UX (already started)
