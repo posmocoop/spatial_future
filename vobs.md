@@ -101,6 +101,7 @@ Classification, Map Related
 - Design Map Desktop
 - Design Pretest Panel Results
 - [x] Design Photo Tutorial - between survey and map classification
+- [x] iPStack-Einbau
 
 ### v.0.5.1 (after user testing from Nov. 9)
 - New Design with simpler rating and photos
