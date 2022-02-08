@@ -124,6 +124,10 @@ Classification, Map Related
 - Weigthing of crowd inputs (e.g. with tracking highest weight)
 - Nodes, Rating Gesamtstrecken.
 
+### FOR DEVELOPMENT IN 2022: JIRA
+We switched to JIRA for developement since January 2022.                   
+https://posmo.atlassian.net/jira/software/projects/VELO/boards/2/roadmap
+
 
 ### To discuss for 0.3.3:    
 
